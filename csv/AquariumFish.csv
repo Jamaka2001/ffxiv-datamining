@@ -1,167 +1,167 @@
 ﻿key,0,1,2,3
 #,AquariumWater,Size,Item,
 int32,AquariumWater,byte,Item,uint16
-0,0,0,0,0
-2,1,1,4948,40
-3,2,1,4876,49
-4,2,2,4886,7
-5,1,2,4979,54
-6,1,2,4959,31
-7,1,2,4951,13
-8,1,3,12721,52
-9,1,3,8776,61
-10,2,3,4918,98
-11,2,4,4903,3
-12,2,4,4917,28
-13,2,4,7941,7
-14,1,4,12803,41
-15,1,1,4926,19
-16,2,1,4874,46
-17,1,2,7940,19
-18,1,2,7902,41
-19,2,2,4883,42
-20,1,3,5000,2
-21,1,3,12749,57
-22,2,3,4908,127
-23,2,4,4922,10
-24,1,4,8774,23
-25,1,1,12739,118
-26,2,1,20048,151
-27,1,2,5011,6
-28,1,2,7699,28
-29,1,2,4973,73
-30,2,2,4898,8
-31,1,2,4905,85
-32,2,3,7924,3
-33,2,4,4924,13
-34,2,4,20018,67
-35,1,1,4970,21
-36,2,1,4879,63
-37,1,2,12743,101
-38,1,2,5023,131
-39,1,2,20052,153
-40,1,2,20220,217
-41,1,2,20221,218
-42,1,3,5025,40
-43,2,3,20054,156
-44,2,4,4923,12
-45,1,1,20021,132
-46,2,1,20162,200
-47,1,2,5007,78
-48,1,2,20051,152
-49,1,2,20053,154
-50,2,2,20145,194
-51,2,2,20186,207
-52,1,3,20228,194
-53,2,3,20171,174
-54,1,1,20211,216
-55,1,1,21178,227
-56,2,2,20038,149
-57,2,2,20100,175
-58,1,2,20183,205
-59,1,2,20193,209
-60,1,2,21177,226
-61,2,3,4893,29
-62,1,3,7943,132
-63,2,4,23054,2
-64,1,4,8762,17
-65,1,1,17590,125
-66,1,2,4986,68
-67,1,2,12750,107
-68,1,2,12768,110
-69,1,2,12764,117
-70,1,2,12741,129
-71,1,2,20185,206
-72,1,3,20204,186
-73,2,3,21176,199
-74,1,4,12752,18
-75,1,1,21175,226
-76,2,2,7685,1
-77,1,2,7709,35
-78,1,2,5013,79
-79,1,2,20020,144
-80,1,2,20090,171
-81,2,2,20180,203
-82,2,3,20157,170
-83,1,3,20184,179
-84,2,4,7690,11
-85,1,1,12742,117
-86,1,2,4999,30
-87,1,2,12781,96
-88,1,2,4987,143
-89,1,2,20229,221
-90,2,2,7693,59
-91,2,2,4895,81
-92,1,3,20192,181
-93,2,3,20226,192
-94,1,4,17579,60
-95,2,1,27423,287
-96,1,1,27481,305
-97,1,2,22397,233
-98,1,2,22398,234
-99,1,2,23059,236
-100,1,2,27415,266
-101,1,2,27531,300
-102,1,3,22389,204
-103,1,4,24994,71
-104,2,4,27503,78
-105,1,1,20233,222
-106,1,1,27543,319
-107,2,2,20110,180
-108,2,2,27454,272
-109,1,2,27474,280
-110,1,2,27490,285
-111,1,3,27559,248
-112,1,3,27534,252
-113,1,4,27437,75
-114,2,4,27424,76
-115,1,1,24995,255
-116,1,1,27494,306
-117,1,2,27430,262
-118,1,2,27536,295
-119,1,2,27530,299
-120,2,2,29785,348
-121,1,3,27560,249
-122,2,3,29787,285
-123,1,4,24990,72
-124,2,4,29790,88
-125,1,1,24203,244
-126,1,1,24204,245
-127,1,2,20218,216
-128,1,2,27546,303
-129,1,2,27557,306
-130,2,2,29719,326
-131,1,3,27436,218
-132,1,3,27579,257
-133,1,4,12830,42
-134,2,4,29784,85
-135,1,1,28065,335
-136,1,1,32052,378
-137,2,1,32063,396
-138,1,2,27566,315
-139,1,2,27563,312
-140,1,2,27525,298
-141,1,2,27486,278
-142,2,2,28940,325
-143,1,3,30434,288
-144,2,4,29782,84
-145,1,1,27468,289
-146,1,1,27483,298
-147,1,1,32049,377
-148,1,2,28926,350
-149,1,2,20045,349
-150,1,2,27577,311
-151,2,2,27422,267
-152,2,2,29755,338
-153,1,3,27532,241
-154,2,4,33244,99
-155,1,1,36460,434
-156,1,1,36481,441
-157,2,1,36450,430
-158,1,2,36443,411
-159,1,2,36418,401
-160,2,2,36571,447
-161,2,2,36563,440
-162,2,2,36425,404
-163,2,3,36453,322
-164,2,4,36454,100
+0,"nothing",0,"",0
+2,"freshwater",1,"Copperfish",40
+3,"saltwater",1,"Coral Butterfly",49
+4,"saltwater",2,"Blowfish",7
+5,"freshwater",2,"Clown Loach",54
+6,"freshwater",2,"Dark Bass",31
+7,"freshwater",2,"Tricolored Carp",13
+8,"freshwater",3,"Whilom Catfish",52
+9,"freshwater",3,"Blood Red Bonytongue",61
+10,"saltwater",3,"Coelacanth",98
+11,"saltwater",4,"Silver Shark",3
+12,"saltwater",4,"Mazlaya Marlin",28
+13,"saltwater",4,"Helmsman's Hand",7
+14,"freshwater",4,"Euphotic Pirarucu",41
+15,"freshwater",1,"Chub",19
+16,"saltwater",1,"Harbor Herring",46
+17,"freshwater",2,"Mirrorscale",19
+18,"freshwater",2,"Cupfish",41
+19,"saltwater",2,"Angelfish",42
+20,"freshwater",3,"Goblin Perch",2
+21,"freshwater",3,"Vanuhead",57
+22,"saltwater",3,"Mummer Wrasse",127
+23,"saltwater",4,"Dinichthys",10
+24,"freshwater",4,"Giant Takitaro",23
+25,"freshwater",1,"Bubble Eye",118
+26,"saltwater",1,"Harutsuge",151
+27,"freshwater",2,"Goldfish",6
+28,"freshwater",2,"Blue Widow",28
+29,"freshwater",2,"Bonytongue",73
+30,"saltwater",2,"Fullmoon Sardine",8
+31,"freshwater",2,"Raincaller",85
+32,"saltwater",3,"Bombardfish",3
+33,"saltwater",4,"Titanic Sawfish",13
+34,"saltwater",4,"Liopleurodon",67
+35,"freshwater",1,"Grip Killifish",21
+36,"saltwater",1,"Tiger Cod",63
+37,"freshwater",2,"Kissing Fish",101
+38,"freshwater",2,"Judgment Staff",131
+39,"freshwater",2,"Yellow Prismfish",153
+40,"freshwater",2,"Cherubfish",217
+41,"freshwater",2,"Dusk Herald",218
+42,"freshwater",3,"Emperor Fish",40
+43,"saltwater",3,"Hanatatsu",156
+44,"saltwater",4,"Megalodon",12
+45,"freshwater",1,"Seraphim",132
+46,"saltwater",1,"Hatchetfish",200
+47,"freshwater",2,"Paglth'an Discus",78
+48,"freshwater",2,"Silken Koi",152
+49,"freshwater",2,"Blue Prismfish",154
+50,"saltwater",2,"Black Boxfish",194
+51,"saltwater",2,"Redcoat",207
+52,"freshwater",3,"Ichthyosaur",194
+53,"saltwater",3,"Corpse-eater",174
+54,"freshwater",1,"Doman Bubble Eye",216
+55,"freshwater",1,"Guppy",227
+56,"saltwater",2,"Zekki Grouper",149
+57,"saltwater",2,"Swordfish",175
+58,"freshwater",2,"Common Bitterling",205
+59,"freshwater",2,"Redfin",209
+60,"freshwater",2,"Violet Prismfish",226
+61,"saltwater",3,"Hammerhead Shark",29
+62,"freshwater",3,"Hannibal",132
+63,"saltwater",4,"Shrieker",2
+64,"freshwater",4,"Canavan",17
+65,"freshwater",1,"Armor Fish",125
+66,"freshwater",2,"Crimson Trout",68
+67,"freshwater",2,"Marble Oscar",107
+68,"freshwater",2,"Noontide Oscar",110
+69,"freshwater",2,"Dragonhead",117
+70,"freshwater",2,"Pipira Pira",129
+71,"freshwater",2,"Nagxian Mullet",206
+72,"freshwater",3,"Grass Shark",186
+73,"saltwater",3,"Ukiki",199
+74,"freshwater",4,"Tigerfish",18
+75,"freshwater",1,"Rockfish",226
+76,"saltwater",2,"Goldenfin",1
+77,"freshwater",2,"High Perch",35
+78,"freshwater",2,"Wandering Sculpin",79
+79,"freshwater",2,"Yanxian Barramundi",144
+80,"freshwater",2,"Highland Perch",171
+81,"saltwater",2,"False Scad",203
+82,"saltwater",3,"Zebra Shark",170
+83,"freshwater",3,"Fifty-summer Cod",179
+84,"saltwater",4,"Silver Sovereign",11
+85,"freshwater",1,"Dravanian Squeaker",117
+86,"freshwater",2,"Archerfish",30
+87,"freshwater",2,"Orn Butterfly",96
+88,"freshwater",2,"Discus",143
+89,"freshwater",2,"Sailfin",221
+90,"saltwater",2,"Navigator's Brand",59
+91,"saltwater",2,"Indigo Herring",81
+92,"freshwater",3,"Cavalry Catfish",181
+93,"saltwater",3,"Motley Beakfish",192
+94,"freshwater",4,"Paikiller",60
+95,"saltwater",1,"Eulmore Butterfly",287
+96,"freshwater",1,"Toadhead",305
+97,"freshwater",2,"Red Prismfish",233
+98,"freshwater",2,"Elder Gourami",234
+99,"freshwater",2,"The Archbishop",236
+100,"freshwater",2,"Sinspitter",266
+101,"freshwater",2,"Noblefish",300
+102,"freshwater",3,"Mirage Mahi",204
+103,"freshwater",4,"Warden of the Seven Hues",71
+104,"saltwater",4,"Ondobane",78
+105,"freshwater",1,"Eternal Eye",222
+106,"freshwater",1,"Poecilia",319
+107,"saltwater",2,"Glass Tuna",180
+108,"saltwater",2,"Kholusian Wrasse",272
+109,"freshwater",2,"Wimple Carp",280
+110,"freshwater",2,"Clown Tetra",285
+111,"freshwater",3,"Ghoulfish",248
+112,"freshwater",3,"Little Bismarck",252
+113,"freshwater",4,"Vicejaw",75
+114,"saltwater",4,"Red Hammerhead",76
+115,"freshwater",1,"The Unconditional",255
+116,"freshwater",1,"Darkdweller",306
+117,"freshwater",2,"Xanthic Bass",262
+118,"freshwater",2,"Big-eye",295
+119,"freshwater",2,"Geayi",299
+120,"saltwater",2,"Spectral Discus",348
+121,"freshwater",3,"Measan Deala",249
+122,"saltwater",3,"Spectral Bass",285
+123,"freshwater",4,"Xenacanthus",72
+124,"saltwater",4,"Stonescale",88
+125,"freshwater",1,"Indigo Prismfish",244
+126,"freshwater",1,"Green Prismfish",245
+127,"freshwater",2,"River Bream",216
+128,"freshwater",2,"Mirrorfish",303
+129,"freshwater",2,"Queensgown",306
+130,"saltwater",2,"Jasperhead",326
+131,"freshwater",3,"Albino Garfish",218
+132,"freshwater",3,"Anpa's Handmaid",257
+133,"freshwater",4,"Loosetongue",42
+134,"saltwater",4,"Spectral Megalodon",85
+135,"freshwater",1,"Loose Pendant",335
+136,"freshwater",1,"Sunken Tome",378
+137,"saltwater",1,"Spectral Butterfly",396
+138,"freshwater",2,"Blue Mountain Bubble",315
+139,"freshwater",2,"Jester Fish",312
+140,"freshwater",2,"Platinum Bream",298
+141,"freshwater",2,"Yellow Pipira",278
+142,"saltwater",2,"Tripod Fish",325
+143,"freshwater",3,"Giant Taimen",288
+144,"saltwater",4,"Funnel Shark",84
+145,"freshwater",1,"Spotted Blue-eye",289
+146,"freshwater",1,"Black Tri-star",298
+147,"freshwater",1,"Moonlight Guppy",377
+148,"freshwater",2,"White Ronso",350
+149,"freshwater",2,"Idle Goby",349
+150,"freshwater",2,"Everdark Bass",311
+151,"saltwater",2,"Bonefish",267
+152,"saltwater",2,"Mythril Sovereign",338
+153,"freshwater",3,"Misteye",241
+154,"saltwater",4,"Lancetfish",99
+155,"freshwater",1,"Dark Crown",434
+156,"freshwater",1,"Dermogenys",441
+157,"saltwater",1,"Fiery Goby",430
+158,"freshwater",2,"Radzbalik",411
+159,"freshwater",2,"Longear Sunfish",401
+160,"saltwater",2,"Deepbody Boarfish",447
+161,"saltwater",2,"Keeled Fugu",440
+162,"saltwater",2,"Fate's Design",404
+163,"saltwater",3,"Roosterfish",322
+164,"saltwater",4,"Basilosaurus",100

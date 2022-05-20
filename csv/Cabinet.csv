@@ -1,547 +1,547 @@
 ﻿key,0,1,2
 #,Item,Order,Category
 int32,Item,uint16,CabinetCategory
-0,2897,1001,1
-1,3220,1002,1
-2,3458,1003,1
-3,3682,1004,1
-4,3889,1005,1
-5,2898,1006,1
-6,3221,1007,1
-7,3459,1008,1
-8,3683,1009,1
-9,3890,1010,1
-10,2899,1011,1
-11,3222,1012,1
-12,3460,1013,1
-13,3684,1014,1
-14,3891,1015,1
-15,2900,1016,1
-16,3223,1017,1
-17,3461,1018,1
-18,3685,1019,1
-19,3892,1020,1
-20,2901,1021,1
-21,3224,1022,1
-22,3462,1023,1
-23,3686,1024,1
-24,3893,1025,1
-25,2902,1031,1
-26,3225,1032,1
-27,3463,1033,1
-28,3687,1034,1
-29,3894,1035,1
-30,2903,1036,1
-31,3226,1037,1
-32,3464,1038,1
-33,3690,1039,1
-34,3895,1040,1
-35,2645,2001,7
-36,2646,2002,7
-37,2647,2003,7
-38,2648,2004,7
-39,4301,2078,7
-40,4302,2079,7
-41,4303,2080,7
-42,4200,2037,2
-43,2659,3000,2
-44,2707,3001,2
-45,2751,3002,2
-46,2809,3003,2
-47,2671,3004,2
-48,4404,3005,2
-49,4407,3006,2
-50,4406,3007,2
-51,4405,3008,2
-52,4408,3009,2
-53,2973,2063,5
-54,2974,2064,5
-55,2975,2065,5
-56,2976,2066,5
-57,2977,2067,5
-58,2978,2072,5
-59,2979,2073,5
-60,2980,2074,5
-61,2981,2075,5
-62,2982,2076,5
-63,3286,2081,5
-64,3287,2082,5
-65,3288,2083,5
-66,3289,2084,5
-67,3290,2085,5
-68,3291,2089,5
-69,3292,2090,5
-70,3293,2091,5
-71,3294,2092,5
-72,3295,2093,5
-73,2638,2123,6
-74,2639,2124,6
-75,2640,2125,6
-76,2641,2126,6
-77,2643,2139,7
-78,2966,2140,7
-79,4199,2122,7
-80,4319,4019,4
-81,2967,2097,5
-82,2968,2098,5
-83,2969,2099,5
-84,2970,2100,5
-85,2971,2101,5
-86,2972,2102,5
-87,3280,2103,5
-88,3281,2104,5
-89,3282,2105,5
-90,3283,2106,5
-91,3284,2107,5
-92,3285,2108,5
-93,3748,2115,5
-94,3749,2116,5
-95,2773,4020,4
-96,3323,4021,4
-97,2752,4022,4
-98,2649,4023,4
-99,4287,4024,4
-100,2907,3001,3
-101,2908,3002,3
-102,2909,3003,3
-103,2910,3005,3
-104,2326,3009,3
-105,2353,3010,3
-106,2378,3011,3
-107,2403,3012,3
-108,2428,3013,3
-109,2454,3014,3
-110,2479,3015,3
-111,2505,3016,3
-112,2531,3017,3
-113,2557,3018,3
-114,2583,3019,3
-115,2222,3041,3
-116,2223,3043,3
-117,2221,3042,3
-118,4274,3044,3
-119,4275,3046,3
-120,4276,3045,3
-121,4517,3047,3
-122,4518,3049,3
-123,4519,3048,3
-124,2784,3054,3
-125,2914,3053,3
-126,2904,1041,1
-127,3227,1042,1
-128,3465,1043,1
-129,3688,1044,1
-130,3896,1045,1
-131,2905,1046,1
-132,3228,1047,1
-133,3466,1048,1
-134,3689,1049,1
-135,3897,1050,1
-136,2633,4005,4
-137,2634,11027,4
-138,4201,4006,4
-139,4202,4007,4
-140,4203,4008,4
-141,6102,4015,4
-142,6103,4016,4
-143,6104,4017,4
-144,6105,4018,4
-145,7889,1026,1
-146,7890,1027,1
-147,7891,1028,1
-148,7892,1029,1
-149,7893,1030,1
-150,2632,4001,4
-151,2637,4002,4
-152,3519,4003,4
-153,3744,4004,4
-154,6106,2005,7
-155,6964,2006,7
-156,6965,2007,7
-157,6966,2008,7
-158,6967,2009,7
-159,6094,2068,5
-160,6096,2069,5
-161,6098,2077,5
-162,6100,2078,5
-163,6095,2086,5
-164,6097,2087,5
-165,6099,2094,5
-166,6101,2095,5
-167,6107,2127,6
-168,6108,2128,6
-169,6111,3004,3
-170,6109,3006,3
-171,6110,3007,3
-172,6119,3021,3
-173,6120,3022,3
-174,6121,3023,3
-175,6122,3024,3
-176,6123,3025,3
-177,6124,3027,3
-178,6125,3028,3
-179,6126,3029,3
-180,6127,3030,3
-181,6128,3031,3
-182,6129,3032,3
-183,6130,3033,3
-184,6131,3034,3
-185,6132,3035,3
-186,6133,3036,3
-187,6134,3037,3
-188,6135,3038,3
-189,6136,3039,3
-190,6137,3040,3
-191,6116,3050,3
-192,6117,3051,3
-193,6118,3052,3
-194,2994,3055,3
-195,2327,1051,1
-196,2354,1052,1
-197,2379,1053,1
-198,2404,1054,1
-199,2429,1055,1
-200,2455,1056,1
-201,2480,1057,1
-202,2506,1058,1
-203,2532,1059,1
-204,2558,1060,1
-205,2584,1061,1
-206,6033,23053,8
-207,6035,23054,8
-208,6034,23055,8
-209,6036,23056,8
-210,6037,23057,8
-211,6038,23058,8
-212,6039,23059,8
-213,6040,23060,8
-214,6045,23061,8
-215,6046,23062,8
-216,6047,23063,8
-217,6048,23064,8
-218,6041,23065,8
-219,6042,23066,8
-220,6043,23067,8
-221,6044,23068,8
-222,6112,4014,8
-223,6968,2144,7
-224,6969,2145,7
-225,6970,2146,7
-226,6971,2069,7
-227,6972,2070,7
-228,6973,2071,7
-229,6974,2072,7
-230,6975,2073,7
-231,6976,2074,7
-232,6977,2075,7
-233,8532,2109,5
-234,8533,2110,5
-235,8534,2111,5
-236,8535,2112,5
-237,8536,2113,5
-238,8537,2114,5
-239,8711,2129,6
-240,8712,2130,6
-241,8713,2131,6
-242,8714,2132,6
-243,8715,2133,6
-244,9317,3008,3
-245,8717,3020,3
-246,9381,3026,3
-247,9268,2010,7
-248,9269,2011,7
-249,9270,2012,7
-250,9271,2013,7
-251,9272,2147,7
-252,9273,2148,7
-253,9274,2149,7
-254,9275,2150,7
-255,9290,2151,7
-256,0,0,4
-257,0,0,4
-258,0,0,4
-259,0,0,4
-260,10316,2117,5
-261,10317,2118,5
-262,10318,2119,5
-263,10319,2120,5
-264,10320,2121,5
-265,10321,2122,5
-266,0,0,4
-267,10329,14033,4
-268,10330,14034,4
-269,10331,14035,4
-270,12035,12028,4
-271,12036,12029,4
-272,12037,12030,4
-273,12038,12031,4
-274,12039,12032,4
-275,12513,3057,3
-276,12514,3058,3
-277,12515,3059,3
-278,12516,3060,3
-279,12517,3061,3
-280,6113,4012,8
-281,7545,4025,4
-282,8566,4009,4
-283,8576,4013,8
-284,9460,4026,4
-285,10042,17036,4
-286,10043,17037,4
-287,10044,17038,4
-288,10045,17039,4
-289,10066,2038,2
-290,10067,3010,2
-291,10068,3011,2
-292,10069,3012,2
-293,10070,3013,2
-294,10065,3056,3
-295,13099,2134,6
-296,13100,2135,6
-297,13101,2136,6
-298,13102,2137,6
-299,13330,21048,8
-300,13331,21049,8
-301,13332,21050,8
-302,13333,21051,8
-303,13334,21052,8
-304,13290,2141,7
-305,13291,2142,7
-306,13292,2143,7
-307,13293,2153,7
-308,13294,2152,7
-309,13295,2014,7
-310,13296,2015,7
-311,13297,2016,7
-312,13298,2076,7
-313,13567,2077,7
-314,13299,2081,7
-315,13568,2082,7
-316,13300,2033,2
-317,13639,2034,2
-318,13724,2035,2
-319,13725,2036,2
-320,8565,4010,4
-321,13987,19044,4
-322,13988,19045,4
-323,13989,19046,4
-324,13990,19047,4
-325,14838,3062,3
-326,15208,4070,8
-327,15209,4072,8
-328,15210,4073,8
-329,15211,4074,8
-330,15212,4075,8
-331,15213,4076,8
-332,15214,4077,8
-333,15215,4078,8
-334,15216,4079,8
-335,15217,4080,8
-336,15218,4081,8
-337,15219,4082,8
-338,15220,4083,8
-339,15221,4071,8
-340,15222,4069,8
-341,15467,2123,5
-342,15468,2124,5
-343,15469,2125,5
-344,15470,2126,5
-345,15471,2127,5
-346,15936,4011,4
-347,15451,3063,3
-348,16612,2154,7
-349,16613,2138,6
-350,16614,2017,7
-351,16615,2018,7
-352,17496,18040,4
-353,17497,18041,4
-354,17498,18042,4
-355,17499,18043,4
-356,17476,2040,2
-357,17477,2042,2
-358,17478,2044,2
-359,17479,2046,2
-360,17480,2048,2
-361,17481,2039,2
-362,17482,2041,2
-363,17483,2043,2
-364,17484,2045,2
-365,17485,2047,2
-366,16038,4048,4
-367,16039,4049,4
-368,20564,2128,5
-369,20565,2129,5
-370,20566,2130,5
-371,21017,2139,6
-372,21018,2140,6
-373,21019,2141,6
-374,21020,2142,6
-375,21021,2143,6
-376,21026,2144,6
-377,20678,2019,7
-378,20679,2020,7
-379,22457,2021,7
-380,22458,2022,7
-381,14839,4050,4
-382,14840,4051,4
-383,14972,4052,4
-384,14973,4053,4
-385,14974,4054,4
-386,14975,4055,4
-387,14976,4056,4
-388,14977,4057,4
-389,14978,4058,4
-390,14979,4059,4
-391,14980,4060,4
-392,14981,4061,4
-393,14983,4062,4
-394,15487,4063,4
-395,15488,4064,4
-396,15489,4065,4
-397,15490,4066,4
-398,15491,4067,4
-399,15935,4068,4
-400,8706,4069,4
-401,8707,4070,4
-402,8708,4071,4
-403,8709,4072,4
-404,8710,4073,4
-405,16042,20001,4
-406,16043,20002,4
-407,16044,20003,4
-408,16045,20004,4
-409,16046,20005,4
-410,16047,20006,4
-411,16048,20007,4
-412,23017,2131,5
-413,23018,2132,5
-414,23019,2133,5
-415,23226,2134,5
-416,24145,2155,7
-417,24146,2156,7
-418,24147,2157,7
-419,24236,2023,7
-420,24237,2024,7
-421,24163,21001,4
-422,24589,4074,4
-423,24608,23069,8
-424,24609,23070,8
-425,24610,23071,8
-426,24611,23072,8
-427,24590,2049,2
-428,24605,3014,2
-429,24606,3015,2
-430,24607,3016,2
-431,25020,2083,7
-432,25021,2084,7
-433,27943,2135,5
-434,27944,2136,5
-435,27945,2137,5
-436,27946,2138,5
-437,27947,2139,5
-438,27948,2140,5
-439,27949,2141,5
-440,27950,2142,5
-441,25180,18044,4
-442,27923,4075,4
-443,28556,2025,7
-444,28557,2026,7
-445,28558,2085,7
-446,28559,2086,7
-447,28560,2087,7
-448,28561,2088,7
-449,28562,2089,7
-450,28563,2090,7
-451,28564,2091,7
-452,28565,2092,7
-453,28566,2093,7
-454,28567,2094,7
-455,28568,2095,7
-456,28569,2096,7
-457,28570,2097,7
-458,28571,2098,7
-459,28572,2099,7
-460,28573,2100,7
-461,28574,2101,7
-462,28575,2102,7
-463,28576,2103,7
-464,28577,2104,7
-465,28578,2105,7
-466,28579,2106,7
-467,28580,2107,7
-468,28581,2108,7
-469,28582,2109,7
-470,28583,2110,7
-471,28584,2111,7
-472,28585,2112,7
-473,28586,2113,7
-474,28587,2114,7
-475,30042,2050,2
-476,30043,2051,2
-477,30044,3017,2
-478,30045,3018,2
-479,30046,3019,2
-480,30047,3064,3
-481,30750,2143,5
-482,30751,2144,5
-483,30752,2145,5
-484,30753,2146,5
-485,30754,2147,5
-486,31393,3065,3
-487,30807,4084,8
-488,30808,4085,8
-489,30809,4086,8
-490,30810,4087,8
-491,32803,2115,7
-492,32804,2027,7
-493,32805,2028,7
-494,33648,4076,4
-495,33649,4077,4
-496,33650,4078,4
-497,33653,3020,2
-498,33654,3021,2
-499,35853,2029,7
-500,35854,2030,7
-501,35855,2031,7
-502,35856,2032,7
-503,35857,3052,2
-504,35863,2145,6
-505,35864,2146,6
-506,35865,2147,6
-507,35866,2148,6
-508,35867,2149,6
-509,35754,21000,4
-510,35858,3066,3
-511,36832,2148,5
-512,36833,2149,5
-513,36834,2150,5
-514,36835,2151,5
-515,36836,2152,5
-516,0,0,0
-517,0,0,0
-518,0,0,0
-519,0,0,0
-520,0,0,0
-521,0,0,0
-522,0,0,0
-523,0,0,0
-524,0,0,0
-525,0,0,0
-526,0,0,0
-527,0,0,0
-528,0,0,0
-529,0,0,0
-530,0,0,0
-531,0,0,0
-532,0,0,0
-533,0,0,0
-534,0,0,0
-535,0,0,0
-536,0,0,0
-537,0,0,0
-538,0,0,0
-539,0,0,0
-540,0,0,0
-541,0,0,0
-542,0,0,0
-543,0,0,0
+0,"Gallant Coronet",1001,"Artifact Armor"
+1,"Gallant Surcoat",1002,"Artifact Armor"
+2,"Gallant Cuisses",1003,"Artifact Armor"
+3,"Gallant Gauntlets",1004,"Artifact Armor"
+4,"Gallant Sollerets",1005,"Artifact Armor"
+5,"Temple Circlet",1006,"Artifact Armor"
+6,"Temple Cyclas",1007,"Artifact Armor"
+7,"Temple Gaskins",1008,"Artifact Armor"
+8,"Temple Gloves",1009,"Artifact Armor"
+9,"Temple Boots",1010,"Artifact Armor"
+10,"Fighter's Burgeonet",1011,"Artifact Armor"
+11,"Fighter's Cuirass",1012,"Artifact Armor"
+12,"Fighter's Breeches",1013,"Artifact Armor"
+13,"Fighter's Gauntlets",1014,"Artifact Armor"
+14,"Fighter's Jackboots",1015,"Artifact Armor"
+15,"Drachen Armet",1016,"Artifact Armor"
+16,"Drachen Mail",1017,"Artifact Armor"
+17,"Drachen Breeches",1018,"Artifact Armor"
+18,"Drachen Gauntlets",1019,"Artifact Armor"
+19,"Drachen Greaves",1020,"Artifact Armor"
+20,"Choral Chapeau",1021,"Artifact Armor"
+21,"Choral Shirt",1022,"Artifact Armor"
+22,"Choral Tights",1023,"Artifact Armor"
+23,"Choral Ringbands",1024,"Artifact Armor"
+24,"Choral Sandals",1025,"Artifact Armor"
+25,"Healer's Circlet",1031,"Artifact Armor"
+26,"Healer's Robe",1032,"Artifact Armor"
+27,"Healer's Culottes",1033,"Artifact Armor"
+28,"Healer's Gloves",1034,"Artifact Armor"
+29,"Healer's Boots",1035,"Artifact Armor"
+30,"Wizard's Petasos",1036,"Artifact Armor"
+31,"Wizard's Coat",1037,"Artifact Armor"
+32,"Wizard's Tonban",1038,"Artifact Armor"
+33,"Wizard's Gloves",1039,"Artifact Armor"
+34,"Wizard's Crakows",1040,"Artifact Armor"
+35,"Dragon Kabuto",2001,"Seasonal Gear 4"
+36,"Crimson Dragon Kabuto",2002,"Seasonal Gear 4"
+37,"Golden Dragon Kabuto",2003,"Seasonal Gear 4"
+38,"Black Dragon Kabuto",2004,"Seasonal Gear 4"
+39,"Paramour's Pendant",2078,"Seasonal Gear 4"
+40,"Platinum Paramour's Pendant",2079,"Seasonal Gear 4"
+41,"Band of Eternal Passion",2080,"Seasonal Gear 4"
+42,"Peach Blossoms",2037,"Seasonal Gear 1"
+43,"Pristine Egg Cap",3000,"Seasonal Gear 1"
+44,"Vibrant Egg Cap",3001,"Seasonal Gear 1"
+45,"Brilliant Egg Cap",3002,"Seasonal Gear 1"
+46,"Midnight Egg Cap",3003,"Seasonal Gear 1"
+47,"Chocobo Egg Cap",3004,"Seasonal Gear 1"
+48,"Pristine Egg Ring",3005,"Seasonal Gear 1"
+49,"Vibrant Egg Ring",3006,"Seasonal Gear 1"
+50,"Brilliant Egg Ring",3007,"Seasonal Gear 1"
+51,"Midnight Egg Ring",3008,"Seasonal Gear 1"
+52,"Chocobo Egg Ring",3009,"Seasonal Gear 1"
+53,"Red Summer Top",2063,"Seasonal Gear 2"
+54,"Green Summer Top",2064,"Seasonal Gear 2"
+55,"Blue Summer Top",2065,"Seasonal Gear 2"
+56,"Solar Summer Top",2066,"Seasonal Gear 2"
+57,"Lunar Summer Top",2067,"Seasonal Gear 2"
+58,"Red Summer Halter",2072,"Seasonal Gear 2"
+59,"Green Summer Halter",2073,"Seasonal Gear 2"
+60,"Blue Summer Halter",2074,"Seasonal Gear 2"
+61,"Solar Summer Halter",2075,"Seasonal Gear 2"
+62,"Lunar Summer Halter",2076,"Seasonal Gear 2"
+63,"Red Summer Trunks",2081,"Seasonal Gear 2"
+64,"Green Summer Trunks",2082,"Seasonal Gear 2"
+65,"Blue Summer Trunks",2083,"Seasonal Gear 2"
+66,"Solar Summer Trunks",2084,"Seasonal Gear 2"
+67,"Lunar Summer Trunks",2085,"Seasonal Gear 2"
+68,"Red Summer Tanga",2089,"Seasonal Gear 2"
+69,"Green Summer Tanga",2090,"Seasonal Gear 2"
+70,"Blue Summer Tanga",2091,"Seasonal Gear 2"
+71,"Solar Summer Tanga",2092,"Seasonal Gear 2"
+72,"Lunar Summer Tanga",2093,"Seasonal Gear 2"
+73,"Pumpkin Head",2123,"Seasonal Gear 3"
+74,"Unripened Pumpkin Head",2124,"Seasonal Gear 3"
+75,"White Pumpkin Head",2125,"Seasonal Gear 3"
+76,"Ripened Pumpkin Head",2126,"Seasonal Gear 3"
+77,"Reindeer Antlers",2139,"Seasonal Gear 4"
+78,"Reindeer Suit",2140,"Seasonal Gear 4"
+79,"Moonlet",2122,"Seasonal Gear 4"
+80,"Patriot's Choker",4019,"Exclusive Extras"
+81,"Lord's Yukata (Blue)",2097,"Seasonal Gear 2"
+82,"Lord's Yukata (Green)",2098,"Seasonal Gear 2"
+83,"Lord's Yukata (Grey)",2099,"Seasonal Gear 2"
+84,"Lady's Yukata (Red)",2100,"Seasonal Gear 2"
+85,"Lady's Yukata (Blue)",2101,"Seasonal Gear 2"
+86,"Lady's Yukata (Black)",2102,"Seasonal Gear 2"
+87,"Lord's Drawers (Black)",2103,"Seasonal Gear 2"
+88,"Lord's Drawers (White)",2104,"Seasonal Gear 2"
+89,"Lord's Drawers (Gold)",2105,"Seasonal Gear 2"
+90,"Lady's Knickers (Black)",2106,"Seasonal Gear 2"
+91,"Lady's Knickers (White)",2107,"Seasonal Gear 2"
+92,"Lady's Knickers (Gold)",2108,"Seasonal Gear 2"
+93,"Lord's Clogs",2115,"Seasonal Gear 2"
+94,"Lady's Clogs",2116,"Seasonal Gear 2"
+95,"Woolen Sugarloaf Hat (Red)",4020,"Exclusive Extras"
+96,"Star-spangled Subligar",4021,"Exclusive Extras"
+97,"Peregrine Helm",4022,"Exclusive Extras"
+98,"Scarf of Wondrous Wit",4023,"Exclusive Extras"
+99,"White Ravens",4024,"Exclusive Extras"
+100,"Butcher's Crown",3001,"Achievements"
+101,"Chronicler's Crown",3002,"Achievements"
+102,"Paragon's Crown",3003,"Achievements"
+103,"Gambler's Crown",3005,"Achievements"
+104,"Saw of the Luminary",3009,"Achievements"
+105,"Hammer of the Luminary",3010,"Achievements"
+106,"Mallet of the Luminary",3011,"Achievements"
+107,"Gavel of the Luminary",3012,"Achievements"
+108,"Knife of the Luminary",3013,"Achievements"
+109,"Needle of the Luminary",3014,"Achievements"
+110,"Alembic of the Luminary",3015,"Achievements"
+111,"Pan of the Luminary",3016,"Achievements"
+112,"Pick of the Luminary",3017,"Achievements"
+113,"Axe of the Luminary",3018,"Achievements"
+114,"Rod of the Luminary",3019,"Achievements"
+115,"Maelstrom Escutcheon",3041,"Achievements"
+116,"Immortal Flames Escutcheon",3043,"Achievements"
+117,"Twin Adder Escutcheon",3042,"Achievements"
+118,"Crimson Standard Earrings",3044,"Achievements"
+119,"Tipping Scales Earrings",3046,"Achievements"
+120,"Lily and Serpent Earrings",3045,"Achievements"
+121,"Crimson Standard Ring",3047,"Achievements"
+122,"Tipping Scales Ring",3049,"Achievements"
+123,"Lily and Serpent Ring",3048,"Achievements"
+124,"Chocobo Mask",3054,"Achievements"
+125,"Dalamud Horn",3053,"Achievements"
+126,"Evoker's Horn",1041,"Artifact Armor"
+127,"Evoker's Doublet",1042,"Artifact Armor"
+128,"Evoker's Waistclout",1043,"Artifact Armor"
+129,"Evoker's Ringbands",1044,"Artifact Armor"
+130,"Evoker's Thighboots",1045,"Artifact Armor"
+131,"Scholar's Mortarboard",1046,"Artifact Armor"
+132,"Scholar's Gown",1047,"Artifact Armor"
+133,"Scholar's Culottes",1048,"Artifact Armor"
+134,"Scholar's Gloves",1049,"Artifact Armor"
+135,"Scholar's Boots",1050,"Artifact Armor"
+136,"Moogle Cap",4005,"Exclusive Extras"
+137,"Helm of Light",11027,"Exclusive Extras"
+138,"Moogle Earrings",4006,"Exclusive Extras"
+139,"Cactuar Earring",4007,"Exclusive Extras"
+140,"Bomb Earrings",4008,"Exclusive Extras"
+141,"Black Summer Top",4015,"Exclusive Extras"
+142,"Black Summer Trunks",4016,"Exclusive Extras"
+143,"Black Summer Halter",4017,"Exclusive Extras"
+144,"Black Summer Tanga",4018,"Exclusive Extras"
+145,"Ninja Hatsuburi",1026,"Artifact Armor"
+146,"Ninja Chainmail",1027,"Artifact Armor"
+147,"Ninja Hakama",1028,"Artifact Armor"
+148,"Ninja Tekko",1029,"Artifact Armor"
+149,"Ninja Kyahan",1030,"Artifact Armor"
+150,"Garlond Goggles",4001,"Exclusive Extras"
+151,"Onion Helm",4002,"Exclusive Extras"
+152,"Asuran Armguards",4003,"Exclusive Extras"
+153,"Hermes' Shoes",4004,"Exclusive Extras"
+154,"Silver Snake Kabuto",2005,"Seasonal Gear 4"
+155,"Uma Kabuto",2006,"Seasonal Gear 4"
+156,"Crimson Uma Kabuto",2007,"Seasonal Gear 4"
+157,"Golden Uma Kabuto",2008,"Seasonal Gear 4"
+158,"Black Uma Kabuto",2009,"Seasonal Gear 4"
+159,"Summer Evening Top",2068,"Seasonal Gear 2"
+160,"Striped Summer Top",2069,"Seasonal Gear 2"
+161,"Summer Morning Halter",2077,"Seasonal Gear 2"
+162,"Striped Summer Halter",2078,"Seasonal Gear 2"
+163,"Summer Evening Trunks",2086,"Seasonal Gear 2"
+164,"Striped Summer Trunks",2087,"Seasonal Gear 2"
+165,"Summer Morning Tanga",2094,"Seasonal Gear 2"
+166,"Striped Summer Tanga",2095,"Seasonal Gear 2"
+167,"The Howling Spirit",2127,"Seasonal Gear 3"
+168,"The Wailing Spirit",2128,"Seasonal Gear 3"
+169,"Paragon's Gown",3004,"Achievements"
+170,"Warlord's Crown",3006,"Achievements"
+171,"Partisan's Crown",3007,"Achievements"
+172,"Master Gladiator's Ring",3021,"Achievements"
+173,"Master Pugilist's Ring",3022,"Achievements"
+174,"Master Marauder's Ring",3023,"Achievements"
+175,"Master Lancer's Ring",3024,"Achievements"
+176,"Master Archer's Ring",3025,"Achievements"
+177,"Master Conjurer's Ring",3027,"Achievements"
+178,"Master Thaumaturge's Ring",3028,"Achievements"
+179,"Master Arcanist's Ring",3029,"Achievements"
+180,"Master Carpenter's Ring",3030,"Achievements"
+181,"Master Blacksmith's Ring",3031,"Achievements"
+182,"Master Armorer's Ring",3032,"Achievements"
+183,"Master Goldsmith's Ring",3033,"Achievements"
+184,"Master Leatherworker's Ring",3034,"Achievements"
+185,"Master Weaver's Ring",3035,"Achievements"
+186,"Master Alchemist's Ring",3036,"Achievements"
+187,"Master Culinarian's Ring",3037,"Achievements"
+188,"Master Miner's Ring",3038,"Achievements"
+189,"Master Botanist's Ring",3039,"Achievements"
+190,"Master Fisher's Ring",3040,"Achievements"
+191,"Crimson Standard Bracelet",3050,"Achievements"
+192,"Lily and Serpent Bracelet",3051,"Achievements"
+193,"Tipping Scales Bracelet",3052,"Achievements"
+194,"Chocobo Suit",3055,"Achievements"
+195,"Ullikummi",1051,"Artifact Armor"
+196,"Vulcan",1052,"Artifact Armor"
+197,"Kurdalegon",1053,"Artifact Armor"
+198,"Urcaguary",1054,"Artifact Armor"
+199,"Pinga",1055,"Artifact Armor"
+200,"Clotho",1056,"Artifact Armor"
+201,"Paracelsus",1057,"Artifact Armor"
+202,"Chantico",1058,"Artifact Armor"
+203,"Mammon",1059,"Artifact Armor"
+204,"Rauni",1060,"Artifact Armor"
+205,"Halcyon Rod",1061,"Artifact Armor"
+206,"Blazefire Saber",23053,"Seasonal Gear 5"
+207,"Vega Knuckles",23054,"Seasonal Gear 5"
+208,"l'Cie Bardiche",23055,"Seasonal Gear 5"
+209,"Bladed Lance",23056,"Seasonal Gear 5"
+210,"Starseeker",23057,"Seasonal Gear 5"
+211,"Binding Rod",23058,"Seasonal Gear 5"
+212,"Mog's Staff",23059,"Seasonal Gear 5"
+213,"Grimoire Wing",23060,"Seasonal Gear 5"
+214,"Bohemian's Coat",23061,"Seasonal Gear 5"
+215,"Bohemian's Gloves",23062,"Seasonal Gear 5"
+216,"Bohemian's Trousers",23063,"Seasonal Gear 5"
+217,"Bohemian's Boots",23064,"Seasonal Gear 5"
+218,"Guardian Corps Coat",23065,"Seasonal Gear 5"
+219,"Guardian Corps Gauntlets",23066,"Seasonal Gear 5"
+220,"Guardian Corps Skirt",23067,"Seasonal Gear 5"
+221,"Guardian Corps Boots",23068,"Seasonal Gear 5"
+222,"Thug's Mug",4014,"Seasonal Gear 5"
+223,"Snowman Head",2144,"Seasonal Gear 4"
+224,"Snowman Suit",2145,"Seasonal Gear 4"
+225,"Snowman Mitts",2146,"Seasonal Gear 4"
+226,"Valentione Hat",2069,"Seasonal Gear 4"
+227,"Valentione Apron",2070,"Seasonal Gear 4"
+228,"Valentione Apron Dress",2071,"Seasonal Gear 4"
+229,"Valentione Mitts",2072,"Seasonal Gear 4"
+230,"Valentione Trousers",2073,"Seasonal Gear 4"
+231,"Valentione Skirt",2074,"Seasonal Gear 4"
+232,"Valentione Pattens",2075,"Seasonal Gear 4"
+233,"Lord's Yukata (Blackflame)",2109,"Seasonal Gear 2"
+234,"Lord's Yukata (Whiteflame)",2110,"Seasonal Gear 2"
+235,"Lord's Yukata (Blueflame)",2111,"Seasonal Gear 2"
+236,"Lady's Yukata (Redfly)",2112,"Seasonal Gear 2"
+237,"Lady's Yukata (Bluefly)",2113,"Seasonal Gear 2"
+238,"Lady's Yukata (Pinkfly)",2114,"Seasonal Gear 2"
+239,"Eerie Hat",2129,"Seasonal Gear 3"
+240,"Eerie Robe",2130,"Seasonal Gear 3"
+241,"Eerie Tights",2131,"Seasonal Gear 3"
+242,"Eerie Crakows",2132,"Seasonal Gear 3"
+243,"Pumpkin Earrings",2133,"Seasonal Gear 3"
+244,"The Best Gown Ever",3008,"Achievements"
+245,"Ironworks Fishing Rod",3020,"Achievements"
+246,"Master Rogue's Ring",3026,"Achievements"
+247,"Hitsuji Kabuto",2010,"Seasonal Gear 4"
+248,"Black Hitsuji Kabuto",2011,"Seasonal Gear 4"
+249,"Crimson Hitsuji Kabuto",2012,"Seasonal Gear 4"
+250,"White Hitsuji Kabuto",2013,"Seasonal Gear 4"
+251,"Starlight Sugarloaf Hat",2147,"Seasonal Gear 4"
+252,"Starlight Tunic",2148,"Seasonal Gear 4"
+253,"Starlight Tights",2149,"Seasonal Gear 4"
+254,"Starlight Boots",2150,"Seasonal Gear 4"
+255,"False Mustache",2151,"Seasonal Gear 4"
+256,"",0,"Exclusive Extras"
+257,"",0,"Exclusive Extras"
+258,"",0,"Exclusive Extras"
+259,"",0,"Exclusive Extras"
+260,"Southern Seas Vest",2117,"Seasonal Gear 2"
+261,"Southern Seas Swimsuit",2118,"Seasonal Gear 2"
+262,"Southern Seas Trunks",2119,"Seasonal Gear 2"
+263,"Southern Seas Tanga",2120,"Seasonal Gear 2"
+264,"Striped Southern Seas Vest",2121,"Seasonal Gear 2"
+265,"Striped Southern Seas Swimsuit",2122,"Seasonal Gear 2"
+266,"",0,"Exclusive Extras"
+267,"Baron Helm",14033,"Exclusive Extras"
+268,"Baron Circlet",14034,"Exclusive Extras"
+269,"Baron Earrings",14035,"Exclusive Extras"
+270,"Wild Rose Bandana",12028,"Exclusive Extras"
+271,"Wild Rose Cuirass",12029,"Exclusive Extras"
+272,"Wild Rose Armguards",12030,"Exclusive Extras"
+273,"Wild Rose Breeches",12031,"Exclusive Extras"
+274,"Wild Rose Boots",12032,"Exclusive Extras"
+275,"Field Commander's Helm",3057,"Achievements"
+276,"Field Commander's Coat",3058,"Achievements"
+277,"Field Commander's Gloves",3059,"Achievements"
+278,"Field Commander's Slops",3060,"Achievements"
+279,"Field Commander's Boots",3061,"Achievements"
+280,"Slime Earrings",4012,"Seasonal Gear 5"
+281,"Goblin Cap",4025,"Exclusive Extras"
+282,"Dodo Earring",4009,"Exclusive Extras"
+283,"King Slime Crown",4013,"Seasonal Gear 5"
+284,"Fat Chocobo Head",4026,"Exclusive Extras"
+285,"Strife Vest",17036,"Exclusive Extras"
+286,"Strife Gloves",17037,"Exclusive Extras"
+287,"Strife Bags",17038,"Exclusive Extras"
+288,"Strife Boots",17039,"Exclusive Extras"
+289,"Peach Blossom Choker",2038,"Seasonal Gear 1"
+290,"Egg Earrings",3010,"Seasonal Gear 1"
+291,"Midnight Egg Earrings",3011,"Seasonal Gear 1"
+292,"Brilliant Egg Earrings",3012,"Seasonal Gear 1"
+293,"Vibrant Egg Earrings",3013,"Seasonal Gear 1"
+294,"Racing Chocobo Mask",3056,"Achievements"
+295,"Witch's Hat",2134,"Seasonal Gear 3"
+296,"Witch's Coatee",2135,"Seasonal Gear 3"
+297,"Witch's Gloves",2136,"Seasonal Gear 3"
+298,"Witch's Thighboots",2137,"Seasonal Gear 3"
+299,"Amatsu Hachigane",21048,"Seasonal Gear 5"
+300,"Amatsu Togi",21049,"Seasonal Gear 5"
+301,"Amatsu Tekko",21050,"Seasonal Gear 5"
+302,"Amatsu Haidate",21051,"Seasonal Gear 5"
+303,"Amatsu Sune-ate",21052,"Seasonal Gear 5"
+304,"Reindeer Antler Headband",2141,"Seasonal Gear 4"
+305,"Reindeer Gloves",2142,"Seasonal Gear 4"
+306,"Reindeer Hooves",2143,"Seasonal Gear 4"
+307,"Saint's Beard",2153,"Seasonal Gear 4"
+308,"Saint's Cap",2152,"Seasonal Gear 4"
+309,"See No Helm",2014,"Seasonal Gear 4"
+310,"Speak No Helm",2015,"Seasonal Gear 4"
+311,"Hear No Helm",2016,"Seasonal Gear 4"
+312,"Black-feathered Flat Hat",2076,"Seasonal Gear 4"
+313,"Red-feathered Flat Hat",2077,"Seasonal Gear 4"
+314,"Platinum Paramour's Earrings",2081,"Seasonal Gear 4"
+315,"Paramour's Earrings",2082,"Seasonal Gear 4"
+316,"Lord's Suikan",2033,"Seasonal Gear 1"
+317,"Lady's Suikan",2034,"Seasonal Gear 1"
+318,"Little Lord's Clogs",2035,"Seasonal Gear 1"
+319,"Little Lady's Clogs",2036,"Seasonal Gear 1"
+320,"Goobbue Earring",4010,"Exclusive Extras"
+321,"Tantalus Vest",19044,"Exclusive Extras"
+322,"Tantalus Cuffs",19045,"Exclusive Extras"
+323,"Tantalus Breeches",19046,"Exclusive Extras"
+324,"Tantalus Boots",19047,"Exclusive Extras"
+325,"Expeditioner's Flyers",3062,"Achievements"
+326,"Whisker of the Brave Cat",4070,"Seasonal Gear 5"
+327,"Ears of the Moon Rabbit",4072,"Seasonal Gear 5"
+328,"Paw of the Crimson Cat",4073,"Seasonal Gear 5"
+329,"Spear of the Spark Serpent",4074,"Seasonal Gear 5"
+330,"Bow of the White Wisp",4075,"Seasonal Gear 5"
+331,"Twintails of the Flame Fox",4076,"Seasonal Gear 5"
+332,"Fang of the Fearless Cat",4077,"Seasonal Gear 5"
+333,"Musket of the Metal Cat",4078,"Seasonal Gear 5"
+334,"Cane of the Shrine Guardian",4079,"Seasonal Gear 5"
+335,"Staff of the Snow Maiden",4080,"Seasonal Gear 5"
+336,"Book of the Eerie Mutt",4081,"Seasonal Gear 5"
+337,"Codex of the Shrine Guardian",4082,"Seasonal Gear 5"
+338,"Globe of the Lucky Snake",4083,"Seasonal Gear 5"
+339,"Buckler of the Legendary Cat",4071,"Seasonal Gear 5"
+340,"Yo-kai Watch",4069,"Seasonal Gear 5"
+341,"Legacy Warrior Coronet",2123,"Seasonal Gear 2"
+342,"Legacy Warrior Mail",2124,"Seasonal Gear 2"
+343,"Legacy Warrior Armguards",2125,"Seasonal Gear 2"
+344,"Legacy Warrior Breeches",2126,"Seasonal Gear 2"
+345,"Legacy Warrior Sabatons",2127,"Seasonal Gear 2"
+346,"Hatchling Earring",4011,"Exclusive Extras"
+347,"Dragon Monocle",3063,"Achievements"
+348,"Starlight Robe",2154,"Seasonal Gear 4"
+349,"Vampire's Vest",2138,"Seasonal Gear 3"
+350,"Red Tori Kabuto",2017,"Seasonal Gear 4"
+351,"Black Tori Kabuto",2018,"Seasonal Gear 4"
+352,"Leonhart Jacket",18040,"Exclusive Extras"
+353,"Leonhart Gloves",18041,"Exclusive Extras"
+354,"Leonhart Bottoms",18042,"Exclusive Extras"
+355,"Leonhart Boots",18043,"Exclusive Extras"
+356,"Songbird Hat",2040,"Seasonal Gear 1"
+357,"Songbird Jacket",2042,"Seasonal Gear 1"
+358,"Songbird Gloves",2044,"Seasonal Gear 1"
+359,"Songbird Skirt",2046,"Seasonal Gear 1"
+360,"Songbird Boots",2048,"Seasonal Gear 1"
+361,"Royal Seneschal's Chapeau",2039,"Seasonal Gear 1"
+362,"Royal Seneschal's Coat",2041,"Seasonal Gear 1"
+363,"Royal Seneschal's Fingerless Gloves",2043,"Seasonal Gear 1"
+364,"Royal Seneschal's Breeches",2045,"Seasonal Gear 1"
+365,"Royal Seneschal's Boots",2047,"Seasonal Gear 1"
+366,"Chicken Knife",4048,"Exclusive Extras"
+367,"Ala Mhigan Earrings",4049,"Exclusive Extras"
+368,"Faire Joi",2128,"Seasonal Gear 2"
+369,"Faire Kohakama",2129,"Seasonal Gear 2"
+370,"Faire Zori",2130,"Seasonal Gear 2"
+371,"Werewolf Head",2139,"Seasonal Gear 3"
+372,"Werewolf Body",2140,"Seasonal Gear 3"
+373,"Werewolf Arms",2141,"Seasonal Gear 3"
+374,"Werewolf Bottoms",2142,"Seasonal Gear 3"
+375,"Werewolf Feet",2143,"Seasonal Gear 3"
+376,"Werewolf Legs",2144,"Seasonal Gear 3"
+377,"White Inu Kabuto",2019,"Seasonal Gear 4"
+378,"Black Inu Kabuto",2020,"Seasonal Gear 4"
+379,"Inoshishi Kabuto",2021,"Seasonal Gear 4"
+380,"Crimson Inoshishi Kabuto",2022,"Seasonal Gear 4"
+381,"Inferno Mask",4050,"Exclusive Extras"
+382,"Crag Mask",4051,"Exclusive Extras"
+383,"Housemaid's Brim",4052,"Exclusive Extras"
+384,"Housemaid's Apron Dress",4053,"Exclusive Extras"
+385,"Housemaid's Wristdresses",4054,"Exclusive Extras"
+386,"Housemaid's Bloomers",4055,"Exclusive Extras"
+387,"Housemaid's Pumps",4056,"Exclusive Extras"
+388,"Butler's Monocle",4057,"Exclusive Extras"
+389,"Butler's Jacket",4058,"Exclusive Extras"
+390,"Butler's Gloves",4059,"Exclusive Extras"
+391,"Butler's Slacks",4060,"Exclusive Extras"
+392,"Butler's Gaiters",4061,"Exclusive Extras"
+393,"Eastern Journey Battle Staff",4062,"Exclusive Extras"
+394,"Eastern Journey Circlet",4063,"Exclusive Extras"
+395,"Eastern Journey Jacket",4064,"Exclusive Extras"
+396,"Eastern Journey Armlets",4065,"Exclusive Extras"
+397,"Eastern Journey Bottoms",4066,"Exclusive Extras"
+398,"Eastern Journey Shoes",4067,"Exclusive Extras"
+399,"Cait Sith Ears",4068,"Exclusive Extras"
+400,"Moogle Head",4069,"Exclusive Extras"
+401,"Moogle Body",4070,"Exclusive Extras"
+402,"Moogle Arms",4071,"Exclusive Extras"
+403,"Moogle Buns",4072,"Exclusive Extras"
+404,"Moogle Legs",4073,"Exclusive Extras"
+405,"Abes Jacket",20001,"Exclusive Extras"
+406,"Abes Gloves",20002,"Exclusive Extras"
+407,"Abes Halfslops",20003,"Exclusive Extras"
+408,"Abes Boots",20004,"Exclusive Extras"
+409,"High Summoner's Dress",20005,"Exclusive Extras"
+410,"High Summoner's Armlets",20006,"Exclusive Extras"
+411,"High Summoner's Boots",20007,"Exclusive Extras"
+412,"Endless Summer Glasses",2131,"Seasonal Gear 2"
+413,"Endless Summer Top",2132,"Seasonal Gear 2"
+414,"Endless Summer Bottom",2133,"Seasonal Gear 2"
+415,"Endless Summer Sandals",2134,"Seasonal Gear 2"
+416,"Choir Hat",2155,"Seasonal Gear 4"
+417,"Choir Robe",2156,"Seasonal Gear 4"
+418,"Choir Shoes",2157,"Seasonal Gear 4"
+419,"Crimson Nezumi Kabuto",2023,"Seasonal Gear 4"
+420,"Cobalt Nezumi Kabuto",2024,"Seasonal Gear 4"
+421,"Matoya's Hat",21001,"Exclusive Extras"
+422,"Aetheryte Earring",4074,"Exclusive Extras"
+423,"Lucian Prince's Jacket",23069,"Seasonal Gear 5"
+424,"Lucian Prince's Fingerless Glove",23070,"Seasonal Gear 5"
+425,"Lucian Prince's Bottoms",23071,"Seasonal Gear 5"
+426,"Lucian Prince's Boots",23072,"Seasonal Gear 5"
+427,"Flower Crown",2049,"Seasonal Gear 1"
+428,"Spriggan Jacket",3014,"Seasonal Gear 1"
+429,"Spriggan Bottoms",3015,"Seasonal Gear 1"
+430,"Spriggan Boots",3016,"Seasonal Gear 1"
+431,"Gigas Greatsword",2083,"Seasonal Gear 4"
+432,"Tonberry Knife",2084,"Seasonal Gear 4"
+433,"Moonfire Hachimaki",2135,"Seasonal Gear 2"
+434,"White Painted Moogle Mask",2136,"Seasonal Gear 2"
+435,"Black Painted Moogle Mask",2137,"Seasonal Gear 2"
+436,"Painted Namazu Mask",2138,"Seasonal Gear 2"
+437,"White Moonfire Happi",2139,"Seasonal Gear 2"
+438,"Red Moonfire Happi",2140,"Seasonal Gear 2"
+439,"Black Moonfire Happi",2141,"Seasonal Gear 2"
+440,"Moonfire Tabi",2142,"Seasonal Gear 2"
+441,"Revolver",18044,"Exclusive Extras"
+442,"Ribbon",4075,"Exclusive Extras"
+443,"Crimson Ushi Kabuto",2025,"Seasonal Gear 4"
+444,"Black Ushi Kabuto",2026,"Seasonal Gear 4"
+445,"Valentione Rose Hat",2085,"Seasonal Gear 4"
+446,"Valentione Rose Waistcoat",2086,"Seasonal Gear 4"
+447,"Valentione Rose Gloves",2087,"Seasonal Gear 4"
+448,"Valentione Rose Slacks",2088,"Seasonal Gear 4"
+449,"Valentione Rose Shoes",2089,"Seasonal Gear 4"
+450,"Valentione Forget-me-not Hat",2090,"Seasonal Gear 4"
+451,"Valentione Forget-me-not Waistcoat",2091,"Seasonal Gear 4"
+452,"Valentione Forget-me-not Gloves",2092,"Seasonal Gear 4"
+453,"Valentione Forget-me-not Slacks",2093,"Seasonal Gear 4"
+454,"Valentione Forget-me-not Shoes",2094,"Seasonal Gear 4"
+455,"Valentione Acacia Hat",2095,"Seasonal Gear 4"
+456,"Valentione Acacia Waistcoat",2096,"Seasonal Gear 4"
+457,"Valentione Acacia Gloves",2097,"Seasonal Gear 4"
+458,"Valentione Acacia Slacks",2098,"Seasonal Gear 4"
+459,"Valentione Acacia Shoes",2099,"Seasonal Gear 4"
+460,"Valentione Rose Ribboned Hat",2100,"Seasonal Gear 4"
+461,"Valentione Rose Dress",2101,"Seasonal Gear 4"
+462,"Valentione Rose Ribboned Gloves",2102,"Seasonal Gear 4"
+463,"Valentione Rose Tights",2103,"Seasonal Gear 4"
+464,"Valentione Rose Heels",2104,"Seasonal Gear 4"
+465,"Valentione Forget-me-not Ribboned Hat",2105,"Seasonal Gear 4"
+466,"Valentione Forget-me-not Dress",2106,"Seasonal Gear 4"
+467,"Valentione Forget-me-not Ribboned Gloves",2107,"Seasonal Gear 4"
+468,"Valentione Forget-me-not Tights",2108,"Seasonal Gear 4"
+469,"Valentione Forget-me-not Heels",2109,"Seasonal Gear 4"
+470,"Valentione Acacia Ribboned Hat",2110,"Seasonal Gear 4"
+471,"Valentione Acacia Dress",2111,"Seasonal Gear 4"
+472,"Valentione Acacia Ribboned Gloves",2112,"Seasonal Gear 4"
+473,"Valentione Acacia Tights",2113,"Seasonal Gear 4"
+474,"Valentione Acacia Heels",2114,"Seasonal Gear 4"
+475,"Seneschal's Monocle",2050,"Seasonal Gear 1"
+476,"Princess's Peach Corsage",2051,"Seasonal Gear 1"
+477,"Rabbit Head",3017,"Seasonal Gear 1"
+478,"Rabbit Suit",3018,"Seasonal Gear 1"
+479,"Dapper Rabbit Suit",3019,"Seasonal Gear 1"
+480,"Kupo Crown",3064,"Achievements"
+481,"Summer's Flame Hat",2143,"Seasonal Gear 2"
+482,"Summer's Flame Top",2144,"Seasonal Gear 2"
+483,"Summer's Flame Wrist Torque",2145,"Seasonal Gear 2"
+484,"Summer's Flame Pareo",2146,"Seasonal Gear 2"
+485,"Summer's Flame Sandals",2147,"Seasonal Gear 2"
+486,"Bozjan Earring",3065,"Achievements"
+487,"Katana of the King's Counsel",4084,"Seasonal Gear 5"
+488,"Rapier of the Serpent Lord",4085,"Seasonal Gear 5"
+489,"Gunblade of the Yo-kai King",4086,"Seasonal Gear 5"
+490,"Glaives of the Dark Princess",4087,"Seasonal Gear 5"
+491,"Lovely Moogle Cap",2115,"Seasonal Gear 4"
+492,"Golden Tora Kabuto",2027,"Seasonal Gear 4"
+493,"Silver Tora Kabuto",2028,"Seasonal Gear 4"
+494,"Menphina's Earring",4076,"Exclusive Extras"
+495,"Fat Cat Earrings",4077,"Exclusive Extras"
+496,"Great Serpent of Ringa",4078,"Exclusive Extras"
+497,"Chicken Head",3020,"Seasonal Gear 1"
+498,"Chicken Suit",3021,"Seasonal Gear 1"
+499,"",2029,"Seasonal Gear 4"
+500,"",2030,"Seasonal Gear 4"
+501,"",2031,"Seasonal Gear 4"
+502,"",2032,"Seasonal Gear 4"
+503,"Little Lady's Crown",3052,"Seasonal Gear 1"
+504,"Clown's Hat",2145,"Seasonal Gear 3"
+505,"Clown's Top",2146,"Seasonal Gear 3"
+506,"Clown's Shortgloves",2147,"Seasonal Gear 3"
+507,"Clown's Bottoms",2148,"Seasonal Gear 3"
+508,"Clown's Boots",2149,"Seasonal Gear 3"
+509,"Death Scythe",21000,"Exclusive Extras"
+510,"Migratory Plume",3066,"Achievements"
+511,"サマーサンセット・バンダナ",2148,"Seasonal Gear 2"
+512,"サマーサンセット・ビーチカバーアップ",2149,"Seasonal Gear 2"
+513,"サマーサンセット・リストトーク",2150,"Seasonal Gear 2"
+514,"サマーサンセット・ボトム",2151,"Seasonal Gear 2"
+515,"サマーサンセット・サンダル",2152,"Seasonal Gear 2"
+516,"",0,""
+517,"",0,""
+518,"",0,""
+519,"",0,""
+520,"",0,""
+521,"",0,""
+522,"",0,""
+523,"",0,""
+524,"",0,""
+525,"",0,""
+526,"",0,""
+527,"",0,""
+528,"",0,""
+529,"",0,""
+530,"",0,""
+531,"",0,""
+532,"",0,""
+533,"",0,""
+534,"",0,""
+535,"",0,""
+536,"",0,""
+537,"",0,""
+538,"",0,""
+539,"",0,""
+540,"",0,""
+541,"",0,""
+542,"",0,""
+543,"",0,""

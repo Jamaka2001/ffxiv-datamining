@@ -1,63 +1,63 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9
 #,Item,,RewardLow,RewardMid,RewardHigh,,,,,
 int32,Item,bit&01,byte,byte,byte,uint32,bit&02,byte,byte,byte
-0,0,False,0,0,0,0,False,0,0,0
-1,30315,False,2,3,5,0,False,0,0,0
-2,30316,False,2,3,5,0,False,0,0,0
-3,30317,False,2,3,5,0,False,0,0,0
-4,30318,False,2,3,5,0,False,0,0,0
-5,30319,False,2,3,5,0,False,0,0,0
-6,30320,False,2,3,5,0,False,0,0,0
-7,30321,False,2,3,5,0,False,0,0,0
-8,30322,False,2,3,5,0,False,0,0,0
-9,30323,False,2,3,5,0,False,0,0,0
-10,30324,False,2,3,5,0,False,0,0,0
-11,30325,False,2,3,5,0,False,0,0,0
-12,30326,False,2,3,5,0,False,0,0,0
-13,30327,False,2,3,5,0,False,0,0,0
-14,30328,False,2,3,5,0,False,0,0,0
-15,30329,False,2,3,5,0,False,0,0,0
-16,30330,False,2,3,5,0,False,0,0,0
-17,31736,False,1,2,3,0,False,0,0,0
-18,31737,False,1,2,3,0,False,0,0,0
-19,31738,False,1,2,3,0,False,0,0,0
-20,31739,False,1,2,3,0,False,0,0,0
-21,31740,False,1,2,3,0,False,0,0,0
-22,31741,False,1,2,3,0,False,0,0,0
-23,31742,False,1,2,3,0,False,0,0,0
-24,31743,False,1,2,3,0,False,0,0,0
-25,31746,False,1,3,7,0,False,0,0,0
-26,31744,False,1,3,7,0,False,0,0,0
-27,31748,False,1,2,4,0,False,0,0,0
-28,31749,False,1,2,4,0,False,0,0,0
-29,33194,False,1,2,0,0,False,0,0,0
-30,33202,False,1,2,0,0,False,0,0,0
-31,33210,False,1,2,0,0,False,0,0,0
-32,33195,False,1,2,0,0,False,0,0,0
-33,33203,False,1,2,0,0,False,0,0,0
-34,33211,False,1,2,0,0,False,0,0,0
-35,33196,False,1,2,0,0,False,0,0,0
-36,33204,False,1,2,0,0,False,0,0,0
-37,33212,False,1,2,0,0,False,0,0,0
-38,33197,False,1,2,0,0,False,0,0,0
-39,33205,False,1,2,0,0,False,0,0,0
-40,33213,False,1,2,0,0,False,0,0,0
-41,33198,False,1,2,0,0,False,0,0,0
-42,33206,False,1,2,0,0,False,0,0,0
-43,33214,False,1,2,0,0,False,0,0,0
-44,33199,False,1,2,0,0,False,0,0,0
-45,33207,False,1,2,0,0,False,0,0,0
-46,33215,False,1,2,0,0,False,0,0,0
-47,33200,False,1,2,0,0,False,0,0,0
-48,33208,False,1,2,0,0,False,0,0,0
-49,33216,False,1,2,0,0,False,0,0,0
-50,33201,False,1,2,0,0,False,0,0,0
-51,33209,False,1,2,0,0,False,0,0,0
-52,33217,False,1,2,0,0,False,0,0,0
-53,0,False,0,0,0,0,False,0,0,0
-54,0,False,0,0,0,0,False,0,0,0
-55,0,False,0,0,0,0,False,0,0,0
-56,0,False,0,0,0,0,False,0,0,0
-57,0,False,0,0,0,0,False,0,0,0
-58,0,False,0,0,0,0,False,0,0,0
-59,0,False,0,0,0,0,False,0,0,0
+0,"",False,0,0,0,0,False,0,0,0
+1,"Carpenter's Gobbiegoo",False,2,3,5,0,False,0,0,0
+2,"Highly Viscous Carpenter's Gobbiegoo",False,2,3,5,0,False,0,0,0
+3,"Blacksmith's Gobbiegoo",False,2,3,5,0,False,0,0,0
+4,"Highly Viscous Blacksmith's Gobbiegoo",False,2,3,5,0,False,0,0,0
+5,"Armorer's Gobbiegoo",False,2,3,5,0,False,0,0,0
+6,"Highly Viscous Armorer's Gobbiegoo",False,2,3,5,0,False,0,0,0
+7,"Goldsmith's Gobbiegoo",False,2,3,5,0,False,0,0,0
+8,"Highly Viscous Goldsmith's Gobbiegoo",False,2,3,5,0,False,0,0,0
+9,"Leatherworker's Gobbiegoo",False,2,3,5,0,False,0,0,0
+10,"Highly Viscous Leatherworker's Gobbiegoo",False,2,3,5,0,False,0,0,0
+11,"Weaver's Gobbiegoo",False,2,3,5,0,False,0,0,0
+12,"Highly Viscous Weaver's Gobbiegoo",False,2,3,5,0,False,0,0,0
+13,"Alchemist's Gobbiegoo",False,2,3,5,0,False,0,0,0
+14,"Highly Viscous Alchemist's Gobbiegoo",False,2,3,5,0,False,0,0,0
+15,"Culinarian's Gobbiegoo",False,2,3,5,0,False,0,0,0
+16,"Highly Viscous Culinarian's Gobbiegoo",False,2,3,5,0,False,0,0,0
+17,"Oddly Delicate Saw Part",False,1,2,3,0,False,0,0,0
+18,"Oddly Delicate Cross-pein Hammer Part",False,1,2,3,0,False,0,0,0
+19,"Oddly Delicate Raising Hammer Part",False,1,2,3,0,False,0,0,0
+20,"Oddly Delicate Lapidary Hammer Part",False,1,2,3,0,False,0,0,0
+21,"Oddly Delicate Round Knife Part",False,1,2,3,0,False,0,0,0
+22,"Oddly Delicate Needle Part",False,1,2,3,0,False,0,0,0
+23,"Oddly Delicate Alembic Part",False,1,2,3,0,False,0,0,0
+24,"Oddly Delicate Frypan Part",False,1,2,3,0,False,0,0,0
+25,"Oddly Delicate Pickaxe Part",False,1,3,7,0,False,0,0,0
+26,"Oddly Delicate Hatchet Part",False,1,3,7,0,False,0,0,0
+27,"Oddly Delicate Fishing Rod Part",False,1,2,4,0,False,0,0,0
+28,"Oddly Delicate Fishing Reel Part",False,1,2,4,0,False,0,0,0
+29,"Resplendent Carpenter's Material B",False,1,2,0,0,False,0,0,0
+30,"Resplendent Carpenter's Material C",False,1,2,0,0,False,0,0,0
+31,"Resplendent Carpenter's Final Material",False,1,2,0,0,False,0,0,0
+32,"Resplendent Blacksmith's Material B",False,1,2,0,0,False,0,0,0
+33,"Resplendent Blacksmith's Material C",False,1,2,0,0,False,0,0,0
+34,"Resplendent Blacksmith's Final Material",False,1,2,0,0,False,0,0,0
+35,"Resplendent Armorer's Material B",False,1,2,0,0,False,0,0,0
+36,"Resplendent Armorer's Material C",False,1,2,0,0,False,0,0,0
+37,"Resplendent Armorer's Final Material",False,1,2,0,0,False,0,0,0
+38,"Resplendent Goldsmith's Material B",False,1,2,0,0,False,0,0,0
+39,"Resplendent Goldsmith's Material C",False,1,2,0,0,False,0,0,0
+40,"Resplendent Goldsmith's Final Material",False,1,2,0,0,False,0,0,0
+41,"Resplendent Leatherworker's Material B",False,1,2,0,0,False,0,0,0
+42,"Resplendent Leatherworker's Material C",False,1,2,0,0,False,0,0,0
+43,"Resplendent Leatherworker's Final Material",False,1,2,0,0,False,0,0,0
+44,"Resplendent Weaver's Material B",False,1,2,0,0,False,0,0,0
+45,"Resplendent Weaver's Material C",False,1,2,0,0,False,0,0,0
+46,"Resplendent Weaver's Final Material",False,1,2,0,0,False,0,0,0
+47,"Resplendent Alchemist's Material B",False,1,2,0,0,False,0,0,0
+48,"Resplendent Alchemist's Material C",False,1,2,0,0,False,0,0,0
+49,"Resplendent Alchemist's Final Material",False,1,2,0,0,False,0,0,0
+50,"Resplendent Culinarian's Material B",False,1,2,0,0,False,0,0,0
+51,"Resplendent Culinarian's Material C",False,1,2,0,0,False,0,0,0
+52,"Resplendent Culinarian's Final Material",False,1,2,0,0,False,0,0,0
+53,"",False,0,0,0,0,False,0,0,0
+54,"",False,0,0,0,0,False,0,0,0
+55,"",False,0,0,0,0,False,0,0,0
+56,"",False,0,0,0,0,False,0,0,0
+57,"",False,0,0,0,0,False,0,0,0
+58,"",False,0,0,0,0,False,0,0,0
+59,"",False,0,0,0,0,False,0,0,0

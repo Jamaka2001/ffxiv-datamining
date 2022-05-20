@@ -1,128 +1,128 @@
 ﻿key,0,1,2,3,4,5,6,7
 #,,Image,Target,UnlockQuest,AcceptMessage,DenyMessage,,
 int32,str,Image,Row,Quest,DefaultTalk,DefaultTalk,byte,byte
-3538944,"",0,0,0,0,0,0,0
-3538945,"",0,0,0,0,0,0,0
-3538946,"",0,262461,0,0,0,1,0
-3538947,"",0,262462,0,0,0,1,0
-3538948,"",0,262472,0,0,0,1,0
-3538949,"",0,262463,0,0,0,1,0
-3538950,"",0,262471,0,0,0,1,0
-3538951,"",0,262588,0,0,0,1,0
-3538952,"",0,262654,0,0,0,1,0
-3538953,"",0,262655,0,0,0,1,0
-3538954,"",0,262656,0,0,0,1,0
-3538955,"",0,262657,0,0,0,1,0
-3538956,"",0,262658,0,0,0,1,0
-3538957,"",0,262838,0,0,0,1,0
-3538958,"",0,262852,0,0,0,1,0
-3538959,"",0,262823,0,0,0,1,0
-3538960,"",0,262830,0,0,0,1,0
-3538961,"",0,262857,0,0,0,1,0
-3538962,"",0,262849,0,0,0,1,0
-3538963,"",0,262879,0,0,0,1,0
-3538964,"",0,3604482,0,0,0,1,0
-3538965,"",0,1769939,0,0,0,2,0
-3538966,"",0,262949,0,0,0,5,0
-3538967,"",0,262948,0,0,0,5,0
-3538968,"",0,262950,0,0,0,5,0
-3538969,"",0,262938,0,0,0,5,0
-3538970,"",0,262939,0,0,0,5,0
-3538971,"",0,262933,0,0,0,5,0
-3538972,"",0,262934,0,0,0,5,0
-3538973,"",0,262935,0,0,0,5,0
-3538974,"",0,262936,0,0,0,5,0
-3538975,"",0,262937,0,0,0,5,0
-3538976,"",0,262940,0,0,0,5,0
-3538977,"",0,262941,0,0,0,5,0
-3538978,"",0,262942,0,0,0,5,0
-3538979,"",0,262943,0,0,0,5,0
-3538980,"",0,262944,0,0,0,5,0
-3538981,"",0,262945,0,0,0,5,0
-3538982,"",0,262946,0,0,0,5,0
-3538983,"",0,262947,0,0,0,5,0
-3538984,"",0,262952,0,0,0,1,0
-3538985,"",0,262967,0,0,0,6,0
-3538986,"",0,262975,0,0,0,6,0
-3538987,"",0,262957,0,0,0,6,0
-3538988,"",0,262962,0,0,0,6,0
-3538989,"",0,262982,0,0,0,6,0
-3538990,"",0,262972,0,0,0,6,0
-3538991,"",0,262995,0,0,0,6,0
-3538992,"",0,262996,0,0,0,6,0
-3538993,"",0,263006,0,0,0,4,0
-3538994,"",0,1770013,0,0,0,3,0
-3538995,"",0,3604484,0,0,0,3,0
-3538996,"",0,1770068,67631,0,594673,1,0
-3538997,"",0,1770068,67631,0,594674,1,0
-3538998,"",0,1770068,67631,0,594675,1,0
-3538999,"",0,1770068,67631,0,594670,1,0
-3539000,"",0,1770068,67634,0,594671,1,0
-3539001,"",0,1770068,68477,0,594672,1,0
-3539002,"",0,1770068,68477,0,594877,1,0
-3539003,"",0,1770068,69139,0,595258,1,0
-3539004,"",0,1770069,67631,0,0,1,0
-3539005,"",0,1770069,67634,0,0,1,0
-3539006,"",0,1770069,68477,0,0,1,0
-3539007,"",0,1770069,69139,0,0,1,0
-3539008,"",0,1770070,68477,0,0,1,0
-3539009,"",0,1770070,69139,0,0,1,0
-3539010,"",0,1770071,68477,0,0,1,0
-3539011,"",0,1770071,69139,0,0,1,0
-3539012,"",0,1770072,68477,0,0,1,0
-3539013,"",0,1770072,69139,0,0,1,0
-3539014,"",0,1770073,68477,0,0,1,0
-3539015,"",0,1770073,69139,0,0,1,0
-3539016,"",0,1770074,68477,0,0,1,0
-3539017,"",0,1770074,69139,0,0,1,0
-3539018,"",0,1770075,69139,0,0,1,0
-3539019,"",0,1770076,69139,0,0,1,0
-3539020,"",0,1770077,69139,0,0,1,0
-3539021,"",0,1770078,67631,0,0,1,0
-3539022,"",0,1770078,67634,0,0,1,0
-3539023,"",0,1770078,68477,0,0,1,0
-3539024,"",0,1770078,69139,0,0,1,0
-3539025,"",0,1770079,68477,0,0,1,0
-3539026,"",0,1770079,69139,0,0,1,0
-3539027,"",0,1770080,68477,0,0,1,0
-3539028,"",0,1770080,69139,0,0,1,0
-3539029,"",0,1770081,68477,0,0,1,0
-3539030,"",0,1770081,69139,0,0,1,0
-3539031,"",0,1770082,68477,0,0,1,0
-3539032,"",0,1770082,69139,0,0,1,0
-3539033,"",0,1770083,68477,0,0,1,0
-3539034,"",0,1770083,69139,0,0,1,0
-3539035,"",0,1770084,69139,0,0,1,0
-3539036,"",0,1770085,69139,0,0,1,0
-3539037,"",0,1770086,69139,0,0,1,0
-3539038,"",0,3473420,0,0,0,1,0
-3539039,"",61392,3604489,0,596989,0,4,0
-3539040,"",0,3866627,0,596990,596988,4,0
-3539041,"",61391,3801090,0,0,0,1,0
-3539042,"",61391,3801091,0,0,0,1,0
-3539043,"",61391,3801092,0,0,0,1,0
-3539044,"",61391,3801093,0,0,0,1,0
-3539045,"",0,3407879,0,0,0,1,0
-3539046,"",0,1770285,0,0,0,6,0
-3539047,"",0,263026,0,0,0,6,0
-3539048,"",0,263027,0,0,0,6,0
-3539049,"",0,263028,0,0,0,6,0
-3539050,"",0,1770068,67634,0,597069,1,0
-3539051,"",0,263021,69384,0,0,1,0
-3539052,"",0,263024,69430,0,0,1,0
-3539053,"",0,263021,69518,0,0,3,0
-3539054,"",0,263024,69518,0,0,3,0
-3539055,"",0,1770310,69139,0,0,1,0
-3539056,"",0,1770311,69139,0,0,1,0
-3539057,"",0,1770332,0,0,0,3,0
-3539058,"",0,3473421,69487,0,0,1,0
-3539059,"",0,3473422,0,0,0,1,0
-3539060,"",61392,3604497,0,597468,0,4,0
-3539061,"",0,1770068,69711,0,595258,1,0
-3539062,"",0,3801097,69711,0,0,1,0
-3539063,"",0,3801096,69139,0,0,1,0
-3539064,"",0,3801094,68477,0,0,1,0
-3539065,"",0,3801094,67634,0,0,1,0
-3539066,"",0,3801094,67631,0,0,1,0
-3539067,"",0,0,0,0,0,0,0
-3539068,"",0,0,0,0,0,0,0
+3538944,"",,,,,,0,0
+3538945,"",,,,,,0,0
+3538946,"",,"Purchase Items (Lumber, Metal, Stone, Bone, Leather)",,,,1,0
+3538947,"",,"Purchase Items (Cloth, Reagents)",,,,1,0
+3538948,"",,"Purchase (Cooking Ingredients)",,,,1,0
+3538949,"",,"Purchase Items (Gardening, Dyes)",,,,1,0
+3538950,"",,"Purchase Items (Catalysts)",,,,1,0
+3538951,"",,"Purchase Items",,,,1,0
+3538952,"",,"Purchase Furnishings (Interior)",,,,1,0
+3538953,"",,"Purchase Furnishings (Chairs, Beds)",,,,1,0
+3538954,"",,"Purchase Furnishings (Tables, Food)",,,,1,0
+3538955,"",,"Purchase Furnishings (Shelves, Rugs, Lighting)",,,,1,0
+3538956,"",,"Purchase Furnishings (Other)",,,,1,0
+3538957,"",,"Purchase Weapons",,,,1,0
+3538958,"",,"Purchase Tools",,,,1,0
+3538959,"",,"Purchase Battlecraft Gear (DoW)",,,,1,0
+3538960,"",,"Purchase Battlecraft Gear (DoM)",,,,1,0
+3538961,"",,"Purchase Fieldcraft/Tradecraft Gear",,,,1,0
+3538962,"",,"Purchase Battlecraft Accessories",,,,1,0
+3538963,"",,"Purchase Items",,,,1,0
+3538964,"",,"Mahjong Rules",,,,1,0
+3538965,"",,"",,,,2,0
+3538966,"",,"Purchase Items",,,,5,0
+3538967,"",,"Purchase Battlecraft Accessories",,,,5,0
+3538968,"",,"Purchase Fieldcraft/Tradecraft Accessories",,,,5,0
+3538969,"",,"Purchase Gear (Lv. 62)",,,,5,0
+3538970,"",,"Purchase Gear (Lv. 64)",,,,5,0
+3538971,"",,"Purchase Weapons (Lv. 62)",,,,5,0
+3538972,"",,"Purchase Weapons (Lv. 64)",,,,5,0
+3538973,"",,"Purchase Weapons (Lv. 66)",,,,5,0
+3538974,"",,"Purchase Weapons (Lv. 68)",,,,5,0
+3538975,"",,"Purchase Weapons (Lv. 70)",,,,5,0
+3538976,"",,"Purchase Gear (Lv. 66)",,,,5,0
+3538977,"",,"Purchase Gear (Lv. 68)",,,,5,0
+3538978,"",,"Purchase Gear (Lv. 70)",,,,5,0
+3538979,"",,"Purchase Gear (Lv. 62)",,,,5,0
+3538980,"",,"Purchase Gear (Lv. 64)",,,,5,0
+3538981,"",,"Purchase Gear (Lv. 66)",,,,5,0
+3538982,"",,"Purchase Gear (Lv. 68)",,,,5,0
+3538983,"",,"Purchase Gear (Lv. 70)",,,,5,0
+3538984,"",,"Purchase Furnishings (Partitions, Wall Decorations)",,,,1,0
+3538985,"",,"Purchase Weapons",,,,6,0
+3538986,"",,"Purchase Tools",,,,6,0
+3538987,"",,"Purchase Battlecraft Gear (DoW)",,,,6,0
+3538988,"",,"Purchase Battlecraft Gear (DoM)",,,,6,0
+3538989,"",,"Purchase Fieldcraft/Tradecraft Gear",,,,6,0
+3538990,"",,"Purchase Battlecraft Accessories",,,,6,0
+3538991,"",,"Purchase Items",,,,6,0
+3538992,"",,"Purchase Items",,,,6,0
+3538993,"",,"Purchase Items",,,,4,0
+3538994,"",,"",,,,3,0
+3538995,"",,"Housing Inquiries",,,,3,0
+3538996,"",,"Yellow Crafters' Scrip Exchange (Master Recipes)","Inscrutable Tastes",,"DefaultTalk#594673",1,0
+3538997,"",,"Yellow Crafters' Scrip Exchange (Master Recipes)","Inscrutable Tastes",,"DefaultTalk#594674",1,0
+3538998,"",,"Yellow Crafters' Scrip Exchange (Master Recipes)","Inscrutable Tastes",,"DefaultTalk#594675",1,0
+3538999,"",,"Yellow Crafters' Scrip Exchange (Master Recipes)","Inscrutable Tastes",,"DefaultTalk#594670",1,0
+3539000,"",,"Yellow Crafters' Scrip Exchange (Master Recipes)","Go West, Craftsman",,"DefaultTalk#594671",1,0
+3539001,"",,"Yellow Crafters' Scrip Exchange (Master Recipes)","Reach Long and Prosper",,"DefaultTalk#594672",1,0
+3539002,"",,"Yellow Crafters' Scrip Exchange (Master Recipes)","Reach Long and Prosper",,"DefaultTalk#594877",1,0
+3539003,"",,"Yellow Crafters' Scrip Exchange (Master Recipes)","The Boutique Always Wins",,"DefaultTalk#595258",1,0
+3539004,"",,"Yellow Crafters' Scrip Exchange (Lv. 50)","Inscrutable Tastes",,,1,0
+3539005,"",,"Yellow Crafters' Scrip Exchange (Lv. 50)","Go West, Craftsman",,,1,0
+3539006,"",,"Yellow Crafters' Scrip Exchange (Lv. 50)","Reach Long and Prosper",,,1,0
+3539007,"",,"Yellow Crafters' Scrip Exchange (Lv. 50)","The Boutique Always Wins",,,1,0
+3539008,"",,"Yellow Crafters' Scrip Exchange (Lv. 61)","Reach Long and Prosper",,,1,0
+3539009,"",,"Yellow Crafters' Scrip Exchange (Lv. 61)","The Boutique Always Wins",,,1,0
+3539010,"",,"Yellow Crafters' Scrip Exchange (Lv. 70 Gear)","Reach Long and Prosper",,,1,0
+3539011,"",,"Yellow Crafters' Scrip Exchange (Lv. 70 Gear)","The Boutique Always Wins",,,1,0
+3539012,"",,"Yellow Crafters' Scrip Exchange (Lv. 70 Gear) II","Reach Long and Prosper",,,1,0
+3539013,"",,"Yellow Crafters' Scrip Exchange (Lv. 70 Gear) II","The Boutique Always Wins",,,1,0
+3539014,"",,"Yellow Crafters' Scrip Exchange (Lv. 70 Augmentation)","Reach Long and Prosper",,,1,0
+3539015,"",,"Yellow Crafters' Scrip Exchange (Lv. 70 Augmentation)","The Boutique Always Wins",,,1,0
+3539016,"",,"Yellow Crafters' Scrip Exchange (Lv. 70 Items)","Reach Long and Prosper",,,1,0
+3539017,"",,"Yellow Crafters' Scrip Exchange (Lv. 70 Items)","The Boutique Always Wins",,,1,0
+3539018,"",,"White Crafters' Scrip Exchange (Lv. 80 Gear)","The Boutique Always Wins",,,1,0
+3539019,"",,"White Crafters' Scrip Exchange (Lv. 80 Gear) II","The Boutique Always Wins",,,1,0
+3539020,"",,"White Crafters' Scrip Exchange (Lv. 80 Items)","The Boutique Always Wins",,,1,0
+3539021,"",,"Yellow Gatherers' Scrip Exchange (Lv. 50)","Inscrutable Tastes",,,1,0
+3539022,"",,"Yellow Gatherers' Scrip Exchange (Lv. 50)","Go West, Craftsman",,,1,0
+3539023,"",,"Yellow Gatherers' Scrip Exchange (Lv. 50)","Reach Long and Prosper",,,1,0
+3539024,"",,"Yellow Gatherers' Scrip Exchange (Lv. 50)","The Boutique Always Wins",,,1,0
+3539025,"",,"Yellow Gatherers' Scrip Exchange (Lv. 61)","Reach Long and Prosper",,,1,0
+3539026,"",,"Yellow Gatherers' Scrip Exchange (Lv. 61)","The Boutique Always Wins",,,1,0
+3539027,"",,"Yellow Gatherers' Scrip Exchange (Lv. 70 Gear)","Reach Long and Prosper",,,1,0
+3539028,"",,"Yellow Gatherers' Scrip Exchange (Lv. 70 Gear)","The Boutique Always Wins",,,1,0
+3539029,"",,"Yellow Gatherers' Scrip Exchange (Lv. 70 Gear) II","Reach Long and Prosper",,,1,0
+3539030,"",,"Yellow Gatherers' Scrip Exchange (Lv. 70 Gear) II","The Boutique Always Wins",,,1,0
+3539031,"",,"Yellow Gatherers' Scrip Exchange (Lv. 70 Augmentation)","Reach Long and Prosper",,,1,0
+3539032,"",,"Yellow Gatherers' Scrip Exchange (Lv. 70 Augmentation)","The Boutique Always Wins",,,1,0
+3539033,"",,"Yellow Gatherers' Scrip Exchange (Lv. 70 Items)","Reach Long and Prosper",,,1,0
+3539034,"",,"Yellow Gatherers' Scrip Exchange (Lv. 70 Items)","The Boutique Always Wins",,,1,0
+3539035,"",,"White Gatherers' Scrip Exchange (Lv. 80 Gear)","The Boutique Always Wins",,,1,0
+3539036,"",,"White Gatherers' Scrip Exchange (Lv. 80 Gear) II","The Boutique Always Wins",,,1,0
+3539037,"",,"White Gatherers' Scrip Exchange (Lv. 80 Items)","The Boutique Always Wins",,,1,0
+3539038,"",,,,,,1,0
+3539039,"","ui/icon/061000/061392.tex","The Bozjan Southern Front",,"DefaultTalk#596989",,4,0
+3539040,"",,"●収集品回収",,"DefaultTalk#596990","DefaultTalk#596988",4,0
+3539041,"","ui/icon/061000/061391.tex","InclusionShop#3801090",,,,1,0
+3539042,"","ui/icon/061000/061391.tex","InclusionShop#3801091",,,,1,0
+3539043,"","ui/icon/061000/061391.tex","InclusionShop#3801092",,,,1,0
+3539044,"","ui/icon/061000/061391.tex","InclusionShop#3801093",,,,1,0
+3539045,"",,,,,,1,0
+3539046,"",,"Hammered Frogments Exchange",,,,6,0
+3539047,"",,"Purchase Tools",,,,6,0
+3539048,"",,"Purchase Gear",,,,6,0
+3539049,"",,"Purchase Items",,,,6,0
+3539050,"",,"Yellow Crafters' Scrip Exchange (Master Recipes)","Go West, Craftsman",,"DefaultTalk#597069",1,0
+3539051,"",,"Purchase Items","Mislaid Plans",,,1,0
+3539052,"",,"Purchase Skysteel Replicas"," The Tools of Tomorrow",,,1,0
+3539053,"",,"Purchase Items","Oddness in the End",,,3,0
+3539054,"",,"Purchase Skysteel Replicas","Oddness in the End",,,3,0
+3539055,"",,"White Crafters' Scrip Exchange (Lv. 80 Gear) III","The Boutique Always Wins",,,1,0
+3539056,"",,"White Gatherers' Scrip Exchange (Lv. 80 Gear) III","The Boutique Always Wins",,,1,0
+3539057,"",,"Inconceivably Delicate Parts Exchange",,,,3,0
+3539058,"",,,"The Lady of Blades",,,1,0
+3539059,"",,,,,,1,0
+3539060,"","ui/icon/061000/061392.tex","Zadnor",,"DefaultTalk#597468",,4,0
+3539061,"",,"Yellow Crafters' Scrip Exchange (Master Recipes)","Expanding House of Splendors",,"DefaultTalk#595258",1,0
+3539062,"",,"InclusionShop#3801097","Expanding House of Splendors",,,1,0
+3539063,"",,"InclusionShop#3801096","The Boutique Always Wins",,,1,0
+3539064,"",,"InclusionShop#3801094","Reach Long and Prosper",,,1,0
+3539065,"",,"InclusionShop#3801094","Go West, Craftsman",,,1,0
+3539066,"",,"InclusionShop#3801094","Inscrutable Tastes",,,1,0
+3539067,"",,,,,,0,0
+3539068,"",,,,,,0,0

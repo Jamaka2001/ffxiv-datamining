@@ -1,71 +1,71 @@
 ﻿key,0,1,2
 #,Name,ClassJobCategory,InclusionShopSeries
 int32,str,ClassJobCategory,InclusionShopSeries
-0,"",0,0
-1,"Tank",75,1
-2,"Melee DPS (DRG/RPR)",76,2
-3,"Melee DPS (MNK/SAM)",77,3
-4,"Physical Ranged DPS",78,4
-5,"Melee DPS (NIN)",104,5
-6,"Healer",80,6
-7,"Magical Ranged DPS",79,7
-8,"Combat Supplies",0,8
-9,"Crafter",33,9
-10,"Crafting Supplies",0,10
-11,"Gatherer",32,11
-12,"Gathering Supplies",0,12
-13,"Tank",75,13
-14,"Melee DPS (DRG/RPR)",76,14
-15,"Melee DPS (MNK/SAM)",77,15
-16,"Physical Ranged DPS",78,16
-17,"Melee DPS (NIN)",104,17
-18,"Healer",80,18
-19,"Magical Ranged DPS",79,19
-20,"Combat Supplies",0,20
-21,"Crafter",33,21
-22,"Crafting Supplies",0,22
-23,"Gatherer",32,23
-24,"Gathering Supplies",0,24
-25,"Tank",75,25
-26,"Melee DPS (DRG/RPR)",76,26
-27,"Melee DPS (MNK/SAM)",77,27
-28,"Physical Ranged DPS",78,28
-29,"Melee DPS (NIN)",104,29
-30,"Healer",80,30
-31,"Magical Ranged DPS",79,31
-32,"Combat Supplies",0,32
-33,"Crafter",33,33
-34,"Crafting Supplies",0,34
-35,"Gatherer",32,35
-36,"Gathering Supplies",0,36
-37,"Tank",75,37
-38,"Melee DPS (DRG/RPR)",76,38
-39,"Melee DPS (MNK/SAM)",77,39
-40,"Physical Ranged DPS",78,40
-41,"Melee DPS (NIN)",104,41
-42,"Healer",80,42
-43,"Magical Ranged DPS",79,43
-44,"Combat Supplies",0,44
-45,"Crafter",33,45
-46,"Crafting Supplies",0,46
-47,"Gatherer",32,47
-48,"Gathering Supplies",0,48
-49,"Crafters' Scrip (Gear)",0,49
-50,"Crafters' Scrip (Master Recipes/Materials/Misc.)",33,50
-51,"Gatherers' Scrip (Gear)",0,51
-52,"Gatherers' Scrip (Materials/Misc.)",32,52
-53,"Crafters' Scrip (Materia)",0,53
-54,"Gatherers' Scrip (Materia)",0,54
-55,"Crafters' Scrip (Gear)",0,55
-56,"Crafters' Scrip (Master Recipes/Materials/Misc.)",33,56
-57,"Gatherers' Scrip (Gear)",0,57
-58,"Gatherers' Scrip (Materials/Misc.)",32,58
-59,"Crafters' Scrip (Gear)",0,59
-60,"Crafters' Scrip (Master Recipes/Materials/Misc.)",33,60
-61,"Gatherers' Scrip (Gear)",0,61
-62,"Gatherers' Scrip (Materials/Misc.)",32,62
-63,"Wolf Marks (DoW Weapons)",30,63
-64,"Wolf Marks (DoM Weapons)",31,64
-65,"Wolf Marks (DoW Gear)",0,65
-66,"Wolf Marks (DoM Gear)",0,66
-67,"Wolf Marks (Other)",0,67
+0,"","",""
+1,"Tank","","Primal Gear (IL 100-115)"
+2,"Melee DPS (DRG/RPR)","LNC DRG RPR","Primal Gear (IL 100-115)"
+3,"Melee DPS (MNK/SAM)","","Primal Gear (IL 100-115)"
+4,"Physical Ranged DPS","","Primal Gear (IL 100-115)"
+5,"Melee DPS (NIN)","","Primal Gear (IL 100-115)"
+6,"Healer","","Primal Gear (IL 100-115)"
+7,"Magical Ranged DPS","","Primal Gear (IL 100-115)"
+8,"Combat Supplies","","Special Arms Materials"
+9,"Crafter","Disciple of the Hand","Crafter Gear (IL 55)"
+10,"Crafting Supplies","","Master Recipes"
+11,"Gatherer","Disciple of the Land","Gatherer Gear (IL 55)"
+12,"Gathering Supplies","","Materia"
+13,"Tank","","Primal Gear (IL 175-265)"
+14,"Melee DPS (DRG/RPR)","LNC DRG RPR","Primal Gear (IL 175-265)"
+15,"Melee DPS (MNK/SAM)","","Primal Gear (IL 175-265)"
+16,"Physical Ranged DPS","","Primal Gear (IL 175-265)"
+17,"Melee DPS (NIN)","","Primal Gear (IL 175-265)"
+18,"Healer","","Primal Gear (IL 175-265)"
+19,"Magical Ranged DPS","","Primal Gear (IL 175-265)"
+20,"Combat Supplies","","Special Arms Materials"
+21,"Crafter","Disciple of the Hand","Adept Gear (IL 130)"
+22,"Crafting Supplies","","Miscellany"
+23,"Gatherer","Disciple of the Land","Trailblazer Gear (IL 130)"
+24,"Gathering Supplies","","Bait/Miscellany"
+25,"Tank","","Primal/Auspice Gear (IL 320-395)"
+26,"Melee DPS (DRG/RPR)","LNC DRG RPR","Primal/Auspice Gear (IL 320-395)"
+27,"Melee DPS (MNK/SAM)","","Primal/Auspice Gear (IL 320-395)"
+28,"Physical Ranged DPS","","Primal/Auspice Gear (IL 320-395)"
+29,"Melee DPS (NIN)","","Primal/Auspice Gear (IL 320-395)"
+30,"Healer","","Primal/Auspice Gear (IL 320-395)"
+31,"Magical Ranged DPS","","Primal/Auspice Gear (IL 320-395)"
+32,"Combat Supplies","","Materials"
+33,"Crafter","Disciple of the Hand","Tradecraft King Tools (IL 330)"
+34,"Crafting Supplies","","Miscellany"
+35,"Gatherer","Disciple of the Land","Fieldcraft King Tools (IL 330)"
+36,"Gathering Supplies","","Bait/Miscellany"
+37,"Tank","","Primal/Warden/Weapon Gear (IL 450-525)"
+38,"Melee DPS (DRG/RPR)","LNC DRG RPR","Primal/Warden/Weapon Gear (IL 450-525)"
+39,"Melee DPS (MNK/SAM)","","Primal/Warden/Weapon Gear (IL 450-525)"
+40,"Physical Ranged DPS","","Primal/Warden/Weapon Gear (IL 450-525)"
+41,"Melee DPS (NIN)","","Primal/Warden/Weapon Gear (IL 450-525)"
+42,"Healer","","Primal/Warden/Weapon Gear (IL 450-525)"
+43,"Magical Ranged DPS","","Primal/Warden/Weapon Gear (IL 450-525)"
+44,"Combat Supplies","","Materials"
+45,"Crafter","Disciple of the Hand","Tradecraft Fiend Gear (IL 440)"
+46,"Crafting Supplies","","Miscellany"
+47,"Gatherer","Disciple of the Land","Fieldcraft Fiend Gear (IL 440)"
+48,"Gathering Supplies","","Bait/Miscellany"
+49,"Crafters' Scrip (Gear)","","White Scrip Exchange (Lv. 58/IL 130)"
+50,"Crafters' Scrip (Master Recipes/Materials/Misc.)","Disciple of the Hand","White Scrip Exchange (Master Recipes)"
+51,"Gatherers' Scrip (Gear)","","White Scrip Exchange (Lv. 58/IL 130)"
+52,"Gatherers' Scrip (Materials/Misc.)","Disciple of the Land","White Scrip Exchange (Music/Furnishings/Misc.)"
+53,"Crafters' Scrip (Materia)","","White Scrip Exchange (Materia)"
+54,"Gatherers' Scrip (Materia)","","White Scrip Exchange (Materia)"
+55,"Crafters' Scrip (Gear)","","White Scrip Exchange (Lv. 58/IL 130)"
+56,"Crafters' Scrip (Master Recipes/Materials/Misc.)","Disciple of the Hand","White Scrip Exchange (Master Recipes)"
+57,"Gatherers' Scrip (Gear)","","White Scrip Exchange (Lv. 58/IL 130)"
+58,"Gatherers' Scrip (Materials/Misc.)","Disciple of the Land","White Scrip Exchange (Music/Furnishings/Misc.)"
+59,"Crafters' Scrip (Gear)","","White Scrip Exchange (Lv. 58/IL 130)"
+60,"Crafters' Scrip (Master Recipes/Materials/Misc.)","Disciple of the Hand","White Scrip Exchange (Master Recipes)"
+61,"Gatherers' Scrip (Gear)","","White Scrip Exchange (Lv. 58/IL 130)"
+62,"Gatherers' Scrip (Materials/Misc.)","Disciple of the Land","White Scrip Exchange (Music/Furnishings/Misc.)"
+63,"Wolf Marks (DoW Weapons)","Disciple of War","Wolf Gear"
+64,"Wolf Marks (DoM Weapons)","Disciple of Magic","Wolf Gear"
+65,"Wolf Marks (DoW Gear)","","Wolf Gear"
+66,"Wolf Marks (DoM Gear)","","Wolf Gear"
+67,"Wolf Marks (Other)","","Miscellaneous"

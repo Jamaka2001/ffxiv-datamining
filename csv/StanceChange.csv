@@ -1,30 +1,30 @@
 ﻿key,0,1,2,3
 #,,Action[0],Action[1],
 int32,uint16,Action,Action,uint16
-0,0,0,0,0
-1,377,4575,4564,34
-2,0,4574,4563,34
-3,383,4575,4562,34
-4,0,4576,4563,210
-5,383,4574,4562,34
-6,377,4576,4564,210
-7,383,4577,4565,34
-8,400,4574,4563,34
-9,401,4575,4562,34
-10,402,4577,4561,34
-11,403,4578,4562,34
-12,436,4573,4562,211
-13,437,4574,4563,3604
-14,0,4575,4561,5896
-15,436,4576,4564,34
-16,437,4577,4565,34
-17,0,0,0,0
-18,0,4579,4567,34
-19,437,4580,4568,34
-20,0,4581,4569,34
-21,436,4582,4570,34
-22,461,4576,4564,210
-23,0,4575,4563,210
-24,461,4574,4562,34
-25,0,4573,4561,34
-26,461,4576,4564,210
+0,0,"","",0
+1,377,"Manipulation","Collectable Synthesis",34
+2,0,"Manipulation","Collectable Synthesis",34
+3,383,"Manipulation","Collectable Synthesis",34
+4,0,"Manipulation","Collectable Synthesis",210
+5,383,"Manipulation","Collectable Synthesis",34
+6,377,"Manipulation","Collectable Synthesis",210
+7,383,"Manipulation","Collectable Synthesis",34
+8,400,"Manipulation","Collectable Synthesis",34
+9,401,"Manipulation","Collectable Synthesis",34
+10,402,"Manipulation","Collectable Synthesis",34
+11,403,"Manipulation","Collectable Synthesis",34
+12,436,"Name of Water","Collectable Synthesis",211
+13,437,"Manipulation","Collectable Synthesis",3604
+14,0,"Manipulation","Collectable Synthesis",5896
+15,436,"Manipulation","Collectable Synthesis",34
+16,437,"Manipulation","Collectable Synthesis",34
+17,0,"","",0
+18,0,"Manipulation","Collectable Synthesis",34
+19,437,"Manipulation","Name of the Wind",34
+20,0,"Manipulation","Name of Fire",34
+21,436,"","Name of Ice",34
+22,461,"Manipulation","Collectable Synthesis",210
+23,0,"Manipulation","Collectable Synthesis",210
+24,461,"Manipulation","Collectable Synthesis",34
+25,0,"Name of Water","Collectable Synthesis",34
+26,461,"Manipulation","Collectable Synthesis",210
